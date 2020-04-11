@@ -1,0 +1,4 @@
+---
+title: "Deneker Chevrolet"
+url: /middlebury/deneker-chevrolet/
+---

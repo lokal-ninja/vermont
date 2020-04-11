@@ -1,0 +1,4 @@
+---
+title: "River City Machine"
+url: /white-river-junction/river-city-machine/
+---
