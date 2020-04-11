@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/vermont"
+languageCode = "en-US"
+title = "Vermont"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "vermont"
