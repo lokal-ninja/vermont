@@ -1,12 +1,12 @@
-id: 2504511842
-type: node
+id: 243011850
+type: way
 shop: car repair
-latitude: 44.2426169
-longitude: -72.54384040000001
+latitude: 44.2426108
+longitude: -72.5440008
 postcode: "05602"
 city: Montpelier
 street: "Gallison Hill Road"
-housenumber: 1
+housenumber: 51;1
 phone: ""
 opening_hours: ""
 website: ""
