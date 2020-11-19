@@ -1,6 +1,6 @@
 ---
 title: South Strafford
 url: /south-strafford/
-latitude: 43.835346200000004
-longitude: -72.3662054
+latitude: 43.8352785
+longitude: -72.36550700000001
 ---
