@@ -1,6 +1,6 @@
 ---
 title: Proctorsville
 url: /proctorsville/
-latitude: 43.382294800000004
-longitude: -72.63842770000001
+latitude: 43.3826145
+longitude: -72.6383392
 ---

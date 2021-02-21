@@ -1,6 +1,5 @@
 id: 7815441253
 type: node
-shop: beauty
 latitude: 44.013204
 longitude: -73.1689078
 postcode: "05753"
@@ -8,5 +7,5 @@ city: Middlebury
 street: "Main Street"
 housenumber: 54
 phone: ""
-opening_hours: "temporarily closed"
+opening_hours: "closed temporarily closed"
 website: ""

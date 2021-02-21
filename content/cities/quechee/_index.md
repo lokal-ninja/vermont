@@ -1,6 +1,6 @@
 ---
 title: Quechee
 url: /quechee/
-latitude: 43.646186500000006
-longitude: -72.4184292
+latitude: 43.646705600000004
+longitude: -72.41972960000001
 ---

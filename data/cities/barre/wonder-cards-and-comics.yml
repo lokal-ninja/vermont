@@ -1,6 +1,5 @@
 id: 7757080682
 type: node
-shop: collector
 latitude: 44.2183058
 longitude: -72.54044660000001
 postcode: "05641"
@@ -8,5 +7,5 @@ city: Barre
 street: "US-302"
 housenumber: 445
 phone: ""
-opening_hours: "We-Fr-11:00-19:00, Sa-11:00-18:00"
+opening_hours: "We-Fr 11:00-19:00; Sa 11:00-18:00"
 website: ""

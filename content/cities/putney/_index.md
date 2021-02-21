@@ -1,6 +1,6 @@
 ---
 title: Putney
 url: /putney/
-latitude: 42.9749197
-longitude: -72.5221575
+latitude: 42.975037400000005
+longitude: -72.5219215
 ---

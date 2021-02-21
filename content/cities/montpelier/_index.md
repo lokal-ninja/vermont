@@ -1,6 +1,6 @@
 ---
 title: Montpelier
 url: /montpelier/
-latitude: 44.260445000000004
-longitude: -72.57568400000001
+latitude: 44.260216400000004
+longitude: -72.575114
 ---

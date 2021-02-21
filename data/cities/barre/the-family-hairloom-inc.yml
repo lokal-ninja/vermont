@@ -1,6 +1,5 @@
 id: 830805050
 type: way
-shop: beauty
 latitude: 44.2140752
 longitude: -72.5335001
 postcode: "05641"
@@ -8,5 +7,5 @@ city: Barre
 street: "North Main Street"
 housenumber: 1016
 phone: ""
-opening_hours: "Mo-Thu-09:00-18:30, Fri-09:00-18:00, Sat-09:00-15:00, Sun-10:00-14:00"
+opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-15:00; Su 10:00-14:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 7741305540
 type: node
-shop: charity
 latitude: 44.2493141
 longitude: -72.5654382
 postcode: "05602"
@@ -8,5 +7,5 @@ city: Montpelier
 street: "River Street"
 housenumber: 62
 phone: ""
-opening_hours: "Mon-Fri-10AM-5PM Sat-10AM-4PM"
+opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
 website: ""

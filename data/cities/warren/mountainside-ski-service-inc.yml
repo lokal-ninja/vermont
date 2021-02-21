@@ -1,6 +1,5 @@
 id: 560141955
 type: way
-shop: sports
 latitude: 44.139583200000004
 longitude: -72.893808
 postcode: "05674"
@@ -8,5 +7,5 @@ city: Warren
 street: "Mountainside Drive"
 housenumber: 205
 phone: ""
-opening_hours: "temporarily closed"
+opening_hours: "closed temporarily closed"
 website: ""

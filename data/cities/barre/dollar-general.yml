@@ -1,6 +1,5 @@
 id: 830812304
 type: way
-shop: variety store
 latitude: 44.2080756
 longitude: -72.5139257
 postcode: "05641"
@@ -8,5 +7,5 @@ city: Barre
 street: "North Main Street"
 housenumber: 540
 phone: ""
-opening_hours: "Mo-Su-08:00-22:00"
+opening_hours: "Mo-Su 08:00-22:00"
 website: ""

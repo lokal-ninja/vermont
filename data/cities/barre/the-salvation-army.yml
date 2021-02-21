@@ -1,6 +1,5 @@
 id: 830811739
 type: way
-shop: charity
 latitude: 44.2084549
 longitude: -72.513509
 postcode: "05641"
@@ -8,5 +7,5 @@ city: Barre
 street: "North Main Street"
 housenumber: 545
 phone: ""
-opening_hours: "Mo-Sa-09:00-19:00"
+opening_hours: "Mo-Sa 09:00-19:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 243501055
 type: way
-shop: hairdresser
 latitude: 44.2493719
 longitude: -72.5619102
 postcode: "05602"
@@ -8,5 +7,5 @@ city: Montpelier
 street: "River Street"
 housenumber: 168
 phone: ""
-opening_hours: "Tue-Thu-9AM-7PM Fri-9AM-5PM Sat-8AM-2PM"
+opening_hours: "Tu-Th 09:00-19:00; Fr 09:00-17:00; Sa 08:00-14:00"
 website: ""

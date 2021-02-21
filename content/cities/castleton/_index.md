@@ -1,6 +1,6 @@
 ---
 title: Castleton
 url: /castleton/
-latitude: 43.6110479
-longitude: -73.1802328
+latitude: 43.6111275
+longitude: -73.1807089
 ---
