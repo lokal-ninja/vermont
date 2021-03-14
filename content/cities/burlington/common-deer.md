@@ -1,5 +1,5 @@
 ---
 title: "Common Deer"
 url: /burlington/common-deer/
-shop: shop
+shop: gift
 ---
