@@ -1,6 +1,6 @@
 ---
 title: Rutland
 url: /rutland/
-latitude: 43.610524700000006
-longitude: -72.97242650000001
+latitude: 43.6067764
+longitude: -72.9792876
 ---
