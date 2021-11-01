@@ -1,6 +1,6 @@
 ---
 title: Barnet
 url: /barnet/
-latitude: 44.296686900000005
-longitude: -72.04950260000001
+latitude: 44.296692300000004
+longitude: -72.0495301
 ---

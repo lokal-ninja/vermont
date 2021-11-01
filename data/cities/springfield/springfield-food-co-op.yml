@@ -1,11 +1,11 @@
-id: 791178955
-type: way
-latitude: 43.3181096
-longitude: -72.5040597
+id: 9035407790
+type: node
+latitude: 43.2995716
+longitude: -72.4813862
 postcode: "05156"
 city: Springfield
-street: "River Street Suite 1"
-housenumber: 335
-phone: ""
-opening_hours: "Mo-Fr 07:00-19:00"
-website: ""
+street: "Main Street"
+housenumber: 6
+phone: "+1 802 885 3363"
+opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-17:00"
+website: "http://springfieldfood.coop/"

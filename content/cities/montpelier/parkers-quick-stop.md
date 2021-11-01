@@ -1,5 +1,5 @@
 ---
-title: "PARKERS QUICK STOP"
+title: "Parkers Quick Stop"
 url: /montpelier/parkers-quick-stop/
 shop: convenience
 ---
