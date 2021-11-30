@@ -1,5 +1,5 @@
 ---
 title: "Stratton Mountain Resort"
-url: /stratton-mt/stratton-mountain-resort/
+url: /stratton/stratton-mountain-resort/
 shop: sports
 ---
