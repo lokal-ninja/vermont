@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
-url: /barre-barre-town/hannaford/
+url: /barre-town/hannaford/
 shop: supermarket
 ---
