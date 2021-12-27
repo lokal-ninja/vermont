@@ -1,6 +1,6 @@
 ---
 title: Johnson
 url: /johnson/
-latitude: 44.635606300000006
-longitude: -72.6803979
+latitude: 44.635
+longitude: -72.682
 ---

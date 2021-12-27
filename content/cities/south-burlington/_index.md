@@ -1,6 +1,6 @@
 ---
 title: South Burlington
 url: /south-burlington/
-latitude: 44.4669941
-longitude: -73.1709604
+latitude: 44.467
+longitude: -73.184
 ---

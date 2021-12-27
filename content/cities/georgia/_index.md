@@ -1,6 +1,6 @@
 ---
 title: Georgia
 url: /georgia/
-latitude: 
-longitude: 
+latitude: 44.696
+longitude: -73.108
 ---

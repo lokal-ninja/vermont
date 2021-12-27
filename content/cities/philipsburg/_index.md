@@ -1,6 +1,6 @@
 ---
 title: Philipsburg
 url: /philipsburg/
-latitude: 
-longitude: 
+latitude: 45.016
+longitude: -73.085
 ---

@@ -1,6 +1,6 @@
 ---
 title: Colchester
 url: /colchester/
-latitude: 44.536001500000005
-longitude: -73.20584020000001
+latitude: 44.498
+longitude: -73.157
 ---

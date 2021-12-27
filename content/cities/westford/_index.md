@@ -1,6 +1,6 @@
 ---
 title: Westford
 url: /westford/
-latitude: 44.6119901
-longitude: -73.0088889
+latitude: 44.587
+longitude: -73.014
 ---

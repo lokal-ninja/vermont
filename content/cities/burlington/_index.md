@@ -1,6 +1,6 @@
 ---
 title: Burlington
 url: /burlington/
-latitude: 44.4761601
-longitude: -73.212906
+latitude: 44.48
+longitude: -73.212
 ---

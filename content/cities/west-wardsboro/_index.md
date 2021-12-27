@@ -1,6 +1,6 @@
 ---
 title: west wardsboro
 url: /west-wardsboro/
-latitude: 
-longitude: 
+latitude: 43.029
+longitude: -72.854
 ---

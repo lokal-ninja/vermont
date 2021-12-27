@@ -1,6 +1,6 @@
 ---
 title: Underhill
 url: /underhill/
-latitude: 44.5258842
-longitude: -72.9451267
+latitude: 44.523
+longitude: -72.943
 ---

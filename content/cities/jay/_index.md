@@ -1,6 +1,6 @@
 ---
 title: Jay
 url: /jay/
-latitude: 44.9479733
-longitude: -72.4379601
+latitude: 44.938
+longitude: -72.504
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eden
 url: /eden/
-latitude: 44.7072718
-longitude: -72.5456691
+latitude: 44.702
+longitude: -72.563
 ---

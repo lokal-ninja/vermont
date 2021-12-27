@@ -1,6 +1,6 @@
 ---
 title: Weathersfield
 url: /weathersfield/
-latitude: 
-longitude: 
+latitude: 43.419
+longitude: -72.404
 ---

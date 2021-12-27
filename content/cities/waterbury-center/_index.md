@@ -1,6 +1,6 @@
 ---
 title: Waterbury Center
 url: /waterbury-center/
-latitude: 44.3781114
-longitude: -72.7159505
+latitude: 44.382
+longitude: -72.721
 ---

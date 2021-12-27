@@ -1,6 +1,6 @@
 ---
 title: Strafford
 url: /strafford/
-latitude: 43.8664568
-longitude: -72.3778728
+latitude: 43.833
+longitude: -72.363
 ---

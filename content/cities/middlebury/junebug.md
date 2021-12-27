@@ -1,5 +1,5 @@
 ---
 title: "Junebug"
 url: /middlebury/junebug/
-shop: clothes
+shop: Kleidung
 ---

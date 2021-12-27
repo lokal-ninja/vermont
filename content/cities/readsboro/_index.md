@@ -1,6 +1,6 @@
 ---
 title: Readsboro
 url: /readsboro/
-latitude: 42.771748800000005
-longitude: -72.9473219
+latitude: 42.774
+longitude: -72.951
 ---

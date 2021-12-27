@@ -1,6 +1,6 @@
 ---
 title: Waterbury
 url: /waterbury/
-latitude: 44.3387049
-longitude: -72.7561208
+latitude: 44.326
+longitude: -72.746
 ---

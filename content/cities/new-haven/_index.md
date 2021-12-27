@@ -1,6 +1,6 @@
 ---
 title: New Haven
 url: /new-haven/
-latitude: 44.124490200000004
-longitude: -73.1537752
+latitude: 44.06
+longitude: -73.169
 ---

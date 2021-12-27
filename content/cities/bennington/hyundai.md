@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /bennington/hyundai/
-shop: car
+shop: Autohaus
 ---

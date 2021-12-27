@@ -1,6 +1,6 @@
 ---
 title: Hew Haven
 url: /hew-haven/
-latitude: 
-longitude: 
+latitude: 44.08
+longitude: -73.177
 ---

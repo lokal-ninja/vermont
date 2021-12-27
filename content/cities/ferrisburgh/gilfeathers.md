@@ -1,5 +1,5 @@
 ---
 title: "Gilfeathers"
 url: /ferrisburgh/gilfeathers/
-shop: deli
+shop: Feinkost
 ---

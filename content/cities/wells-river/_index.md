@@ -1,6 +1,6 @@
 ---
 title: Wells River
 url: /wells-river/
-latitude: 44.1542997
-longitude: -72.04716350000001
+latitude: 44.153
+longitude: -72.045
 ---

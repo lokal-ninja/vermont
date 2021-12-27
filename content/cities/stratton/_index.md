@@ -1,6 +1,6 @@
 ---
 title: Stratton
 url: /stratton/
-latitude: 43.0428562
-longitude: -72.9109334
+latitude: 43.114
+longitude: -72.908
 ---

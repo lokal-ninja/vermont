@@ -1,5 +1,5 @@
 ---
 title: "Sea Bags"
 url: /burlington/sea-bags/
-shop: bag
+shop: Taschen & Koffer
 ---

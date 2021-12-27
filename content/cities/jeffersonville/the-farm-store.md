@@ -1,5 +1,5 @@
 ---
 title: "The Farm Store"
 url: /jeffersonville/the-farm-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CW Print + Design"
 url: /barre/cw-print-design/
-shop: copyshop
+shop: Kopieren
 ---

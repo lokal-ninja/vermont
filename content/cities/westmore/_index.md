@@ -1,6 +1,6 @@
 ---
 title: Westmore
 url: /westmore/
-latitude: 44.771087900000005
-longitude: -72.0547188
+latitude: 44.766
+longitude: -72.052
 ---

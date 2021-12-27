@@ -1,5 +1,5 @@
 ---
 title: "Marketplace on Main Street"
 url: /manchester-center/marketplace-on-main-street/
-shop: variety store
+shop: Kramladen
 ---

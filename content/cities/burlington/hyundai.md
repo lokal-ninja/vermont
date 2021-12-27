@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /burlington/hyundai/
-shop: car
+shop: Autohaus
 ---

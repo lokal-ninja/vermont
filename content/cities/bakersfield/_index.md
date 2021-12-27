@@ -1,6 +1,6 @@
 ---
 title: Bakersfield
 url: /bakersfield/
-latitude: 44.782149000000004
-longitude: -72.80158300000001
+latitude: 44.783
+longitude: -72.802
 ---

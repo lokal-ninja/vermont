@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /williston/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

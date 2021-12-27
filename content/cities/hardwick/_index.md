@@ -1,6 +1,6 @@
 ---
 title: Hardwick
 url: /hardwick/
-latitude: 44.5046011
-longitude: -72.36594960000001
+latitude: 44.515
+longitude: -72.375
 ---

@@ -1,6 +1,6 @@
 ---
 title: North Ferrisburgh
 url: /north-ferrisburgh/
-latitude: 44.2594979
-longitude: -73.21123460000001
+latitude: 44.257
+longitude: -73.229
 ---

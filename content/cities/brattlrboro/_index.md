@@ -1,6 +1,6 @@
 ---
 title: Brattlrboro
 url: /brattlrboro/
-latitude: 
-longitude: 
+latitude: 42.885
+longitude: -72.557
 ---

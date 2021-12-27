@@ -1,5 +1,5 @@
 ---
 title: "Monarch Auto Body Shop"
 url: /manchester/monarch-auto-body-shop/
-shop: car repair
+shop: Autowerkstatt
 ---

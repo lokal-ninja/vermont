@@ -1,6 +1,6 @@
 ---
 title: Burke
 url: /burke/
-latitude: 
-longitude: 
+latitude: 44.588
+longitude: -71.945
 ---

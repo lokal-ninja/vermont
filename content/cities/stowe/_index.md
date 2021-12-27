@@ -1,6 +1,6 @@
 ---
 title: Stowe
 url: /stowe/
-latitude: 44.4654236
-longitude: -72.68546950000001
+latitude: 44.502
+longitude: -72.756
 ---

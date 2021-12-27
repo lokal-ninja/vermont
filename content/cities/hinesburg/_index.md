@@ -1,6 +1,6 @@
 ---
 title: Hinesburg
 url: /hinesburg/
-latitude: 44.329251
-longitude: -73.111267
+latitude: 44.356
+longitude: -73.156
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maplefields"
 url: /johnson/maplefields/
-shop: convenience
+shop: Lebensmittel
 ---

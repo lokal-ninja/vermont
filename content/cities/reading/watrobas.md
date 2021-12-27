@@ -1,5 +1,5 @@
 ---
 title: "Watrobas"
 url: /reading/watrobas/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Everest Asian Market"
 url: /essex-junction/everest-asian-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Peacham
 url: /peacham/
-latitude: 44.3284703
-longitude: -72.17036110000001
+latitude: 44.314
+longitude: -72.167
 ---

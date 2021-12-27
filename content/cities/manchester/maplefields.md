@@ -1,5 +1,5 @@
 ---
 title: "Maplefields"
 url: /manchester/maplefields/
-shop: convenience
+shop: Lebensmittel
 ---

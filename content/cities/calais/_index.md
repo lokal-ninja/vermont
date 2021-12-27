@@ -1,6 +1,6 @@
 ---
 title: Calais
 url: /calais/
-latitude: 
-longitude: 
+latitude: 44.375
+longitude: -72.495
 ---

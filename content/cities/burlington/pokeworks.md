@@ -1,5 +1,5 @@
 ---
 title: "Pokéworks"
 url: /burlington/pokeworks/
-shop: clothes
+shop: Kleidung
 ---

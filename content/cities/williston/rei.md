@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /williston/rei/
-shop: outdoor
+shop: Outdoor
 ---

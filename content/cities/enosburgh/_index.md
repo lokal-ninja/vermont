@@ -1,6 +1,6 @@
 ---
 title: Enosburgh
 url: /enosburgh/
-latitude: 
-longitude: 
+latitude: 44.906
+longitude: -72.806
 ---

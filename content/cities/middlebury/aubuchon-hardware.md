@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
 url: /middlebury/aubuchon-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

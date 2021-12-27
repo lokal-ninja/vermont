@@ -1,6 +1,6 @@
 ---
 title: Charlotte
 url: /charlotte/
-latitude: 44.3096989
-longitude: -73.2545441
+latitude: 44.316
+longitude: -73.224
 ---

@@ -1,6 +1,6 @@
 ---
 title: Barre
 url: /barre/
-latitude: 44.197467
-longitude: -72.502213
+latitude: 44.192
+longitude: -72.48
 ---

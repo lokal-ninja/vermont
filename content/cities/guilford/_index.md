@@ -1,6 +1,6 @@
 ---
 title: Guilford
 url: /guilford/
-latitude: 42.817765300000005
-longitude: -72.5751369
+latitude: 42.818
+longitude: -72.575
 ---
