@@ -1,5 +1,5 @@
 ---
 title: "University Mall"
 url: /south-burlington/university-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "the Laundry Lounge"
 url: /jeffersonville/the-laundry-lounge/
-shop: Wäscherei
+shop: laundry
 ---

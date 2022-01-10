@@ -1,5 +1,5 @@
 ---
 title: "Meunier Towing"
 url: /windsor/meunier-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

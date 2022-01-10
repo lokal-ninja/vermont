@@ -1,5 +1,5 @@
 ---
 title: "LinBrooke Storage"
 url: /barre/linbrooke-storage/
-shop: Mieten
+shop: storage rental
 ---

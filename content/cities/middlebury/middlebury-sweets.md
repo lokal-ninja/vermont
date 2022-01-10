@@ -1,5 +1,5 @@
 ---
 title: "Middlebury Sweets"
 url: /middlebury/middlebury-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

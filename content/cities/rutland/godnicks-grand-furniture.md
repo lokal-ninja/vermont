@@ -1,5 +1,5 @@
 ---
 title: "Godnicks Grand Furniture"
 url: /rutland/godnicks-grand-furniture/
-shop: Möbel
+shop: furniture
 ---

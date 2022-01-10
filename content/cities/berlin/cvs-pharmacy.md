@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /berlin/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

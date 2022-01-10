@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /manchester-center/carters/
-shop: Kleidung
+shop: clothes
 ---

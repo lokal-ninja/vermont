@@ -1,5 +1,5 @@
 ---
 title: "Paradise Provisions"
 url: /warren/paradise-provisions/
-shop: Supermarkt
+shop: supermarket
 ---

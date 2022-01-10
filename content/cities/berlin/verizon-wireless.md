@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /berlin/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

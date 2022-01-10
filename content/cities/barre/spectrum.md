@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /barre/spectrum/
-shop: Handy
+shop: mobile phone
 ---

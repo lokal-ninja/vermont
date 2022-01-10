@@ -1,5 +1,5 @@
 ---
 title: "Ellis Music"
 url: /bethel/ellis-music/
-shop: Instrumente
+shop: musical instrument
 ---

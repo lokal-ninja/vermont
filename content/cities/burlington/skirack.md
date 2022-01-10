@@ -1,5 +1,5 @@
 ---
 title: "SkiRack"
 url: /burlington/skirack/
-shop: Fahrrad
+shop: bicycle
 ---

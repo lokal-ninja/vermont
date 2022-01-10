@@ -1,5 +1,5 @@
 ---
 title: "Lowery's Auto Sales"
 url: /barre/lowerys-auto-sales/
-shop: Autohaus
+shop: car
 ---

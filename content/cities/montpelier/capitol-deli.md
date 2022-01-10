@@ -1,5 +1,5 @@
 ---
 title: "Capitol Deli"
 url: /montpelier/capitol-deli/
-shop: Feinkost
+shop: deli
 ---

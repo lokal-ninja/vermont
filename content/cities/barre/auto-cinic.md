@@ -1,5 +1,5 @@
 ---
 title: "Auto Cinic"
 url: /barre/auto-cinic/
-shop: Autowerkstatt
+shop: car repair
 ---

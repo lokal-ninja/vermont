@@ -1,5 +1,5 @@
 ---
 title: "Provisions International"
 url: /white-river-junction/provisions-international/
-shop: Großhandel
+shop: wholesale
 ---

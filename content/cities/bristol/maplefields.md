@@ -1,5 +1,5 @@
 ---
 title: "Maplefields"
 url: /bristol/maplefields/
-shop: Lebensmittel
+shop: convenience
 ---

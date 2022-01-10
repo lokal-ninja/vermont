@@ -1,5 +1,5 @@
 ---
 title: "Jolley"
 url: /enosburgh/jolley/
-shop: Lebensmittel
+shop: convenience
 ---

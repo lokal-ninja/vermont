@@ -1,5 +1,5 @@
 ---
 title: "Anjou"
 url: /burlington/anjou/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Danform Shoes"
 url: /burlington/danform-shoes/
-shop: Schuhe
+shop: shoes
 ---

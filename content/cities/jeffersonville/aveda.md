@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /jeffersonville/aveda/
-shop: Kosmetik
+shop: beauty
 ---

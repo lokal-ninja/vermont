@@ -1,5 +1,5 @@
 ---
 title: "Dente's Market"
 url: /barre/dentes-market/
-shop: Lebensmittel
+shop: convenience
 ---

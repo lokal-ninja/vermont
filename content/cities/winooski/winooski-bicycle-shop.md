@@ -1,5 +1,5 @@
 ---
 title: "Winooski Bicycle Shop"
 url: /winooski/winooski-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Devin Design"
 url: /barre/devin-design/
-shop: Kosmetik
+shop: beauty
 ---

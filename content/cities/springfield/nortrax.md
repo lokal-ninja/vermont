@@ -1,5 +1,5 @@
 ---
 title: "nortrax"
 url: /springfield/nortrax/
-shop: Mieten
+shop: storage rental
 ---

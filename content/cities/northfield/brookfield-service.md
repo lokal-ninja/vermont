@@ -1,5 +1,5 @@
 ---
 title: "Brookfield Service"
 url: /northfield/brookfield-service/
-shop: Elektrisch
+shop: electrical
 ---

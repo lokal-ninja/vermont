@@ -1,5 +1,5 @@
 ---
 title: "Formula Nissan"
 url: /barre/formula-nissan/
-shop: Autohaus
+shop: car
 ---

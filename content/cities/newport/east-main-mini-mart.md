@@ -1,5 +1,5 @@
 ---
 title: "East Main Mini Mart"
 url: /newport/east-main-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

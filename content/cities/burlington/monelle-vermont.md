@@ -1,5 +1,5 @@
 ---
 title: "Monelle Vermont"
 url: /burlington/monelle-vermont/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fernandez Hardware"
 url: /northfield/fernandez-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

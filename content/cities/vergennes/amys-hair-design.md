@@ -1,5 +1,5 @@
 ---
 title: "Amy's Hair Design"
 url: /vergennes/amys-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

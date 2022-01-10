@@ -1,5 +1,5 @@
 ---
 title: "Waterfalls Day Spa"
 url: /middlebury/waterfalls-day-spa/
-shop: Massage
+shop: massage
 ---

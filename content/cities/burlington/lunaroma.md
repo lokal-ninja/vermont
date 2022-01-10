@@ -1,5 +1,5 @@
 ---
 title: "Lunaroma"
 url: /burlington/lunaroma/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bennington/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /south-burlington/sears/
-shop: Warenhaus
+shop: department store
 ---

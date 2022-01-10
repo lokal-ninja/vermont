@@ -1,5 +1,5 @@
 ---
 title: "Perry Auto Service"
 url: /montpelier/perry-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

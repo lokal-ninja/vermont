@@ -1,5 +1,5 @@
 ---
 title: "Mendy's Clothing"
 url: /middlebury/mendys-clothing/
-shop: Kleidung
+shop: clothes
 ---

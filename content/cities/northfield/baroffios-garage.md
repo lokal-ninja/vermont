@@ -1,5 +1,5 @@
 ---
 title: "Baroffio's Garage"
 url: /northfield/baroffios-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

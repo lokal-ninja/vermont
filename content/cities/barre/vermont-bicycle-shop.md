@@ -1,5 +1,5 @@
 ---
 title: "Vermont Bicycle Shop"
 url: /barre/vermont-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

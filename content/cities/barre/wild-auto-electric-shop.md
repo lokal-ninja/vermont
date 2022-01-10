@@ -1,5 +1,5 @@
 ---
 title: "Wild Auto Electric Shop"
 url: /barre/wild-auto-electric-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

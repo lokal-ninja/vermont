@@ -1,5 +1,5 @@
 ---
 title: "Michael Khors"
 url: /manchester-center/michael-khors/
-shop: Kleidung
+shop: clothes
 ---

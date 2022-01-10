@@ -1,5 +1,5 @@
 ---
 title: "Maplefields"
 url: /georgia/maplefields/
-shop: Lebensmittel
+shop: convenience
 ---

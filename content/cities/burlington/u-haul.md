@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /burlington/u-haul/
-shop: Mieten
+shop: storage rental
 ---

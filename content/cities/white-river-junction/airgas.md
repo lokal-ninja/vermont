@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /white-river-junction/airgas/
-shop: Gasflaschen
+shop: gas
 ---

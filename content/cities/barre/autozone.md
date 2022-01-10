@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /barre/autozone/
-shop: Autoteile
+shop: car parts
 ---

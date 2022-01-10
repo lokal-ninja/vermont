@@ -1,5 +1,5 @@
 ---
 title: "Randy's Service Center"
 url: /middlebury/randys-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

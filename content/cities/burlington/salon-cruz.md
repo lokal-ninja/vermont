@@ -1,5 +1,5 @@
 ---
 title: "Salon Cruz"
 url: /burlington/salon-cruz/
-shop: Friseur
+shop: hairdresser
 ---

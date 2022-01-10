@@ -1,5 +1,5 @@
 ---
 title: "Yogarama Athletica"
 url: /burlington/yogarama-athletica/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Value Service Center"
 url: /springfield/value-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

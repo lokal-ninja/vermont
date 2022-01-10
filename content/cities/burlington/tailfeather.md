@@ -1,5 +1,5 @@
 ---
 title: "Tailfeather"
 url: /burlington/tailfeather/
-shop: Kleidung
+shop: clothes
 ---

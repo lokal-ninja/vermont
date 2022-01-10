@@ -1,5 +1,5 @@
 ---
 title: "Cody Chevrolet"
 url: /montpelier/cody-chevrolet/
-shop: Autohaus
+shop: car
 ---

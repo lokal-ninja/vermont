@@ -1,5 +1,5 @@
 ---
 title: "Jess Boutique"
 url: /burlington/jess-boutique/
-shop: Kleidung
+shop: clothes
 ---

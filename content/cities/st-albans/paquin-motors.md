@@ -1,5 +1,5 @@
 ---
 title: "Paquin Motors"
 url: /st-albans/paquin-motors/
-shop: Autohaus
+shop: car
 ---

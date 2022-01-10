@@ -1,5 +1,5 @@
 ---
 title: "Vermont HoneyLights"
 url: /bristol/vermont-honeylights/
-shop: Kerzen
+shop: candles
 ---

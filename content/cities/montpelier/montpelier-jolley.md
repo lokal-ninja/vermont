@@ -1,5 +1,5 @@
 ---
 title: "Montpelier Jolley"
 url: /montpelier/montpelier-jolley/
-shop: Lebensmittel
+shop: convenience
 ---

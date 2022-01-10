@@ -1,5 +1,5 @@
 ---
 title: "Total Fitness Equipment"
 url: /manchester-center/total-fitness-equipment/
-shop: Allgemein
+shop: shop
 ---

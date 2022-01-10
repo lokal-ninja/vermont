@@ -1,5 +1,5 @@
 ---
 title: "The Alpine Shop"
 url: /south-burlington/the-alpine-shop/
-shop: Fahrrad
+shop: bicycle
 ---

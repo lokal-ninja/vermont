@@ -1,5 +1,5 @@
 ---
 title: "Merola's"
 url: /burlington/merolas/
-shop: Getränke
+shop: beverages
 ---
