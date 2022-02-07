@@ -1,5 +1,5 @@
 ---
-title: "VINTAGE REVIVAL"
+title: "Vintage Revival"
 url: /barre/vintage-revival/
 shop: antiques
 ---
