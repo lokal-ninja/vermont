@@ -1,6 +1,6 @@
 ---
 title: Rutland;Rutland City
 url: /rutland-rutland-city/
-latitude: 43.618
-longitude: -72.957
+latitude: 43.617
+longitude: -72.958
 ---
