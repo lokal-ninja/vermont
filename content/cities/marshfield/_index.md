@@ -1,6 +1,6 @@
 ---
 title: Marshfield
 url: /marshfield/
-latitude: 44.351
-longitude: -72.354
+latitude: 44.28
+longitude: -72.421
 ---
