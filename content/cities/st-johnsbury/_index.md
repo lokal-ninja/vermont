@@ -1,6 +1,6 @@
 ---
 title: St. Johnsbury
 url: /st-johnsbury/
-latitude: 44.421
-longitude: -72.008
+latitude: 44.416
+longitude: -72.016
 ---
