@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
-url: /rutland-rutland-city/stewarts-shops/
+url: /rutland-city/stewarts-shops-2/
 shop: convenience
 ---
