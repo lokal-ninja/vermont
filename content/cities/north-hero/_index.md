@@ -1,6 +1,6 @@
 ---
 title: North Hero
 url: /north-hero/
-latitude: 44.821
-longitude: -73.29
+latitude: 44.826
+longitude: -73.289
 ---
