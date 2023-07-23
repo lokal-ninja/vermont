@@ -1,5 +1,5 @@
 ---
 title: "Trow Hill Grocery"
-url: /barre/trow-hill-grocery/
+url: /barre-town/trow-hill-grocery/
 shop: supermarket
 ---
