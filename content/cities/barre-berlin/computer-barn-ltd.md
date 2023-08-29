@@ -1,5 +1,5 @@
 ---
 title: "Computer Barn LTD"
-url: /barre/computer-barn-ltd/
+url: /barre-berlin/computer-barn-ltd/
 shop: computer
 ---

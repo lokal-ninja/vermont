@@ -1,5 +1,5 @@
 ---
 title: "Barre Electric & Lighting Supply"
-url: /barre/barre-electric-and-lighting-supply/
+url: /berlin/barre-electric-and-lighting-supply/
 shop: lamps
 ---

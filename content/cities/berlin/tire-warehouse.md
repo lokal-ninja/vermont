@@ -1,5 +1,5 @@
 ---
 title: "Tire Warehouse"
-url: /barre/tire-warehouse/
+url: /berlin/tire-warehouse/
 shop: tyres
 ---

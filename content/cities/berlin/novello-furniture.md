@@ -1,5 +1,5 @@
 ---
 title: "Novello Furniture"
-url: /barre/novello-furniture/
+url: /berlin/novello-furniture/
 shop: furniture
 ---
