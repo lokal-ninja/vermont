@@ -1,6 +1,6 @@
 ---
 title: Middlebury
 url: /middlebury/
-latitude: 44.013
-longitude: -73.169
+latitude: 44.014
+longitude: -73.166
 ---
