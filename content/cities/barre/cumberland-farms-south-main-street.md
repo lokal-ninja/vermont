@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
-url: /barre/cumberland-farms/
+url: /barre/cumberland-farms-south-main-street/
 shop: convenience
 ---

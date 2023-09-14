@@ -1,5 +1,5 @@
 ---
 title: "Champlain Farms"
-url: /burlington/champlain-farms/
+url: /burlington/champlain-farms-north-avenue/
 shop: convenience
 ---

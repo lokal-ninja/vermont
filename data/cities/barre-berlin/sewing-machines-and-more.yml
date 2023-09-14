@@ -3,8 +3,8 @@ type: way
 latitude: 44.21961
 longitude: -72.54195
 postcode: "05641"
-city: Barre
-street: "US-302"
+city: Barre;Berlin
+street: "US-302;US Route 302"
 housenumber: 542
 phone: ""
 opening_hours: "Mo-Th 10:00-17:00; Fr 10:00-18:00; Sa 09:00-13:00"

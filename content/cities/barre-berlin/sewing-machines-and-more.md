@@ -1,5 +1,5 @@
 ---
 title: "Sewing Machines and More"
-url: /barre/sewing-machines-and-more/
+url: /barre-berlin/sewing-machines-and-more/
 shop: sewing
 ---
