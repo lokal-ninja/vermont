@@ -1,6 +1,6 @@
 ---
 title: Bennington
 url: /bennington/
-latitude: 42.878
-longitude: -73.188
+latitude: 42.877
+longitude: -73.258
 ---
