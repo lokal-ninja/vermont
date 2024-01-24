@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
-url: /saint-johnsbury/price-chopper/
+url: /st-albans/price-chopper/
 shop: supermarket
 ---
