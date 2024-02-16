@@ -1,5 +1,5 @@
 ---
 title: "Magic Mann"
-url: /essex-junction/magic-mann/
+url: /essex/magic-mann/
 shop: cannabis
 ---

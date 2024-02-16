@@ -1,5 +1,5 @@
 ---
 title: "Uncommon Coffee"
-url: /essex-junction/uncommon-coffee/
+url: /essex/uncommon-coffee/
 shop: coffee
 ---

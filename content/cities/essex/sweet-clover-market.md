@@ -1,5 +1,5 @@
 ---
 title: "Sweet Clover Market"
-url: /essex-junction/sweet-clover-market/
+url: /essex/sweet-clover-market/
 shop: supermarket
 ---
