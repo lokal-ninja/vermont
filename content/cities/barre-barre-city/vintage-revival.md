@@ -1,5 +1,5 @@
 ---
 title: "Vintage Revival"
-url: /barre/vintage-revival/
+url: /barre-barre-city/vintage-revival/
 shop: antiques
 ---
