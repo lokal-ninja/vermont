@@ -1,5 +1,5 @@
 ---
 title: "Bene-Fit Shop"
-url: /barre/bene-fit-shop/
+url: /barre-barre-city/bene-fit-shop/
 shop: charity
 ---
