@@ -1,5 +1,5 @@
 ---
 title: "Ayer Auto Sales"
-url: /barre/ayer-auto-sales/
+url: /barre-barre-city/ayer-auto-sales/
 shop: car
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shoreham
 url: /shoreham/
-latitude: 43.9
-longitude: -73.308
+latitude: 43.894
+longitude: -73.311
 ---
