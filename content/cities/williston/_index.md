@@ -1,6 +1,6 @@
 ---
 title: Williston
 url: /williston/
-latitude: 44.476
-longitude: -73.114
+latitude: 44.446
+longitude: -73.109
 ---
