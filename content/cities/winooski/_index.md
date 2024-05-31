@@ -1,6 +1,6 @@
 ---
 title: Winooski
 url: /winooski/
-latitude: 44.492
-longitude: -73.182
+latitude: 44.491
+longitude: -73.193
 ---
