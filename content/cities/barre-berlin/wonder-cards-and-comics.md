@@ -1,5 +1,5 @@
 ---
 title: "Wonder Cards & Comics"
-url: /barre/wonder-cards-and-comics/
+url: /barre-berlin/wonder-cards-and-comics/
 shop: collector
 ---

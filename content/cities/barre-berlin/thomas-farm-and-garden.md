@@ -1,5 +1,5 @@
 ---
 title: "Thomas Farm & Garden"
-url: /barre/thomas-farm-and-garden/
+url: /barre-berlin/thomas-farm-and-garden/
 shop: garden centre
 ---
