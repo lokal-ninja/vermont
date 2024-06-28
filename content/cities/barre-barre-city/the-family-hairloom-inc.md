@@ -1,5 +1,5 @@
 ---
 title: "The Family Hairloom, Inc."
-url: /barre/the-family-hairloom-inc/
+url: /barre-barre-city/the-family-hairloom-inc/
 shop: beauty
 ---
