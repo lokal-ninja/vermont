@@ -1,5 +1,5 @@
 ---
 title: "Budzyn Tire"
-url: /barre/budzyn-tire/
+url: /barre-city/budzyn-tire/
 shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
-url: /barre/aubuchon-hardware/
+url: /barre-barre-city/aubuchon-hardware/
 shop: hardware
 ---

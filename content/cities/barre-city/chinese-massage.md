@@ -1,5 +1,5 @@
 ---
 title: "Chinese Massage"
-url: /barre/chinese-massage/
+url: /barre-city/chinese-massage/
 shop: massage
 ---

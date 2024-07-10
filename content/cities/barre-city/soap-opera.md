@@ -1,5 +1,5 @@
 ---
 title: "Soap Opera"
-url: /barre/soap-opera/
+url: /barre-city/soap-opera/
 shop: laundry
 ---
