@@ -1,5 +1,5 @@
 ---
 title: "Champlain Farms"
-url: /barre/champlain-farms/
+url: /barre-city/champlain-farms/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beavin & Son's"
-url: /barre/beavin-and-sons/
+url: /barre-barre-city/beavin-and-sons/
 shop: copyshop
 ---
