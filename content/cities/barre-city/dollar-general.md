@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /barre/dollar-general-south-main-street/
+url: /barre-city/dollar-general/
 shop: variety store
 ---

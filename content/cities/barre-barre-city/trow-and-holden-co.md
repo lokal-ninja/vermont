@@ -1,5 +1,5 @@
 ---
 title: "Trow & Holden Co"
-url: /barre/trow-and-holden-co/
+url: /barre-barre-city/trow-and-holden-co/
 shop: hardware
 ---
