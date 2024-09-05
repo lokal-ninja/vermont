@@ -1,5 +1,5 @@
 ---
 title: "Haven"
 url: /saint-johnsbury/haven/
-shop: houseware
+shop: Haushaltsartikel
 ---

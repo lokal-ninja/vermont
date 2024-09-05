@@ -1,5 +1,5 @@
 ---
 title: "Jockey Outlet"
 url: /manchester-center/jockey-outlet/
-shop: clothes
+shop: Kleidung
 ---

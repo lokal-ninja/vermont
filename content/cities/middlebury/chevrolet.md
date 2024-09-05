@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /middlebury/chevrolet/
-shop: car
+shop: Autohaus
 ---

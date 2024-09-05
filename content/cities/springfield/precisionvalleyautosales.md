@@ -1,5 +1,5 @@
 ---
 title: "precisionvalleyautosales"
 url: /springfield/precisionvalleyautosales/
-shop: car
+shop: Autohaus
 ---

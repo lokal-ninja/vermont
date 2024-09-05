@@ -1,5 +1,5 @@
 ---
 title: "Village Wine and Coffee"
 url: /shelburne/village-wine-and-coffee/
-shop: wine
+shop: Wein
 ---

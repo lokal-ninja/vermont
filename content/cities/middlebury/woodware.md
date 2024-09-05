@@ -1,5 +1,5 @@
 ---
 title: "Woodware"
 url: /middlebury/woodware/
-shop: furniture
+shop: Möbel
 ---

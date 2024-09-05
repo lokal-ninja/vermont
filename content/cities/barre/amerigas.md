@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /barre/amerigas/
-shop: gas
+shop: Gasflaschen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /barre/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

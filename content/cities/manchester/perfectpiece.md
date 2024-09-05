@@ -1,5 +1,5 @@
 ---
 title: "Perfectpiece"
 url: /manchester/perfectpiece/
-shop: charity
+shop: Gebrauchtwaren
 ---

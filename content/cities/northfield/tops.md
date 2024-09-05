@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /northfield/tops/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /hinesburg/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

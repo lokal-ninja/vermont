@@ -1,5 +1,5 @@
 ---
 title: "Ebenezer Books"
 url: /johnson/ebenezer-books/
-shop: books
+shop: Bücher
 ---

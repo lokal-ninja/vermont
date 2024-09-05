@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /south-burlington/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

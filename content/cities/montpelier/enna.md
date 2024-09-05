@@ -1,5 +1,5 @@
 ---
 title: "Enna"
 url: /montpelier/enna/
-shop: deli
+shop: Feinkost
 ---

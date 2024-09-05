@@ -1,5 +1,5 @@
 ---
 title: "Cadillac"
 url: /montpelier/cadillac/
-shop: car
+shop: Autohaus
 ---

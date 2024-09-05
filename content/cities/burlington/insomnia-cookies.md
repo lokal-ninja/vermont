@@ -1,5 +1,5 @@
 ---
 title: "Insomnia cookies"
 url: /burlington/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

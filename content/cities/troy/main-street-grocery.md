@@ -1,5 +1,5 @@
 ---
 title: "Main Street Grocery"
 url: /troy/main-street-grocery/
-shop: supermarket
+shop: Supermarkt
 ---

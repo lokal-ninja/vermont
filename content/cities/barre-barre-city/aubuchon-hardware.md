@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
 url: /barre-barre-city/aubuchon-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

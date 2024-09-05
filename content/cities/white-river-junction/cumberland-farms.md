@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /white-river-junction/cumberland-farms/
-shop: convenience
+shop: Lebensmittel
 ---

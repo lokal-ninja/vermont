@@ -1,5 +1,5 @@
 ---
 title: "Jolley"
 url: /alburgh/jolley/
-shop: convenience
+shop: Lebensmittel
 ---

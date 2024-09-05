@@ -1,5 +1,5 @@
 ---
 title: "Clay's"
 url: /south-burlington/clays/
-shop: clothes
+shop: Kleidung
 ---

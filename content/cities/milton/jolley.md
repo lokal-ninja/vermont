@@ -1,5 +1,5 @@
 ---
 title: "Jolley"
 url: /milton/jolley/
-shop: convenience
+shop: Lebensmittel
 ---

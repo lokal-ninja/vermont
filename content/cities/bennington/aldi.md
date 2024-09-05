@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bennington/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Harvest"
 url: /burlington/great-harvest/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /williston/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

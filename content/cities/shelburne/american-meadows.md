@@ -1,5 +1,5 @@
 ---
 title: "American Meadows"
 url: /shelburne/american-meadows/
-shop: garden centre
+shop: Garten-Center
 ---

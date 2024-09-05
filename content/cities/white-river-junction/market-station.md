@@ -1,5 +1,5 @@
 ---
 title: "Market Station"
 url: /white-river-junction/market-station/
-shop: convenience
+shop: Lebensmittel
 ---

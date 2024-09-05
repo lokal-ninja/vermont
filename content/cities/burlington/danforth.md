@@ -1,5 +1,5 @@
 ---
 title: "Danforth"
 url: /burlington/danforth/
-shop: houseware
+shop: Haushaltsartikel
 ---

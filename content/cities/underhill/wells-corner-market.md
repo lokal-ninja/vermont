@@ -1,5 +1,5 @@
 ---
 title: "Wells Corner Market"
 url: /underhill/wells-corner-market/
-shop: convenience
+shop: Lebensmittel
 ---

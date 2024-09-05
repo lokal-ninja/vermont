@@ -1,5 +1,5 @@
 ---
 title: "White River Hyundai"
 url: /white-river-junction/white-river-hyundai/
-shop: car
+shop: Autohaus
 ---

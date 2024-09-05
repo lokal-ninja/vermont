@@ -1,5 +1,5 @@
 ---
 title: "Shear Beauty Salon"
 url: /springfield/shear-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

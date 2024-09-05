@@ -1,5 +1,5 @@
 ---
 title: "Dakin Farm"
 url: /ferrisburgh/dakin-farm/
-shop: farm
+shop: Hofladen
 ---
