@@ -1,5 +1,5 @@
 ---
 title: "Security Self Storage"
 url: /rutland-city/security-self-storage/
-shop: Mieten
+shop: storage rental
 ---

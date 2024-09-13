@@ -1,5 +1,5 @@
 ---
 title: "Chappells Florist"
 url: /south-burlington/chappells-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blanchard Block"
 url: /barre/blanchard-block/
-shop: Mieten
+shop: storage rental
 ---

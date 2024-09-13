@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /rutland/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

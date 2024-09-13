@@ -1,5 +1,5 @@
 ---
 title: "Beverage Baron"
 url: /barre-barre-city/beverage-baron/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talbots Outlet"
 url: /manchester-center/talbots-outlet/
-shop: Kleidung
+shop: clothes
 ---

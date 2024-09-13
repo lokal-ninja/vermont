@@ -1,5 +1,5 @@
 ---
 title: "Milton Mile Muffler"
 url: /manchester-center/milton-mile-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

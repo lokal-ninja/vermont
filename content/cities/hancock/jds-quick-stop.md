@@ -1,5 +1,5 @@
 ---
 title: "JD's Quick Stop"
 url: /hancock/jds-quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

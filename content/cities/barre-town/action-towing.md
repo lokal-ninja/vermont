@@ -1,5 +1,5 @@
 ---
 title: "Action Towing"
 url: /barre-town/action-towing/
-shop: Allgemein
+shop: shop
 ---

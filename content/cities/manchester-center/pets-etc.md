@@ -1,5 +1,5 @@
 ---
 title: "Pets Etc."
 url: /manchester-center/pets-etc/
-shop: Tiere
+shop: pet
 ---

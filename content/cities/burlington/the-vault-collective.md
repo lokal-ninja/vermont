@@ -1,5 +1,5 @@
 ---
 title: "The Vault Collective"
 url: /burlington/the-vault-collective/
-shop: Kleidung
+shop: clothes
 ---

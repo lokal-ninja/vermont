@@ -1,5 +1,5 @@
 ---
 title: "rk MILES"
 url: /montpelier/rk-miles/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Otter Creek Bakery"
 url: /middlebury/otter-creek-bakery/
-shop: Bäckerei
+shop: bakery
 ---

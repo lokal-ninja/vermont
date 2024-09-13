@@ -1,5 +1,5 @@
 ---
 title: "Guy's Repair Shop"
 url: /barre-city/guys-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

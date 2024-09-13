@@ -1,5 +1,5 @@
 ---
 title: "Bob's Service Center"
 url: /white-river-junction/bobs-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

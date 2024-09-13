@@ -1,5 +1,5 @@
 ---
 title: "Kiss the Cook"
 url: /burlington/kiss-the-cook/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milne Travel"
 url: /middlebury/milne-travel/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Middle Road Market"
 url: /milton/middle-road-market/
-shop: Lebensmittel
+shop: convenience
 ---

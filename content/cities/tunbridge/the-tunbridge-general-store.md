@@ -1,5 +1,5 @@
 ---
 title: "The Tunbridge General Store"
 url: /tunbridge/the-tunbridge-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

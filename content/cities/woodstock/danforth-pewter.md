@@ -1,5 +1,5 @@
 ---
 title: "Danforth Pewter"
 url: /woodstock/danforth-pewter/
-shop: Schmuck
+shop: jewelry
 ---

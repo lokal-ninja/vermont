@@ -1,5 +1,5 @@
 ---
 title: "Imago"
 url: /colchester/imago/
-shop: Erotik
+shop: erotic
 ---

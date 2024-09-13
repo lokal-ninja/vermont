@@ -1,5 +1,5 @@
 ---
 title: "Handy's Lunch"
 url: /burlington/handys-lunch/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T. E. Pembroke Landscaping"
 url: /montpelier/t-e-pembroke-landscaping/
-shop: Garten-Center
+shop: garden centre
 ---

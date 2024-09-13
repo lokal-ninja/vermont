@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /south-burlington/verizon/
-shop: Handy
+shop: mobile phone
 ---

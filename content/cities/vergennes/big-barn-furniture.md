@@ -1,5 +1,5 @@
 ---
 title: "Big Barn Furniture"
 url: /vergennes/big-barn-furniture/
-shop: Möbel
+shop: furniture
 ---

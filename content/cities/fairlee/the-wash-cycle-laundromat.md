@@ -1,5 +1,5 @@
 ---
 title: "The Wash Cycle Laundromat"
 url: /fairlee/the-wash-cycle-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

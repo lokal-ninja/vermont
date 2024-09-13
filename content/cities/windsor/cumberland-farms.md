@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /windsor/cumberland-farms/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maven"
 url: /burlington/maven/
-shop: Allgemein
+shop: shop
 ---

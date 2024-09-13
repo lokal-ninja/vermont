@@ -1,5 +1,5 @@
 ---
 title: "Onion River Clippers"
 url: /winooski/onion-river-clippers/
-shop: Kosmetik
+shop: beauty
 ---

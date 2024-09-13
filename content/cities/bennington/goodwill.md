@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bennington/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

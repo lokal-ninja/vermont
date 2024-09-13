@@ -1,5 +1,5 @@
 ---
 title: "Artisans Hand"
 url: /montpelier/artisans-hand/
-shop: Andenken
+shop: gift
 ---

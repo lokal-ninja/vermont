@@ -1,5 +1,5 @@
 ---
 title: "Great Northern Liquidation"
 url: /springfield/great-northern-liquidation/
-shop: Möbel
+shop: furniture
 ---

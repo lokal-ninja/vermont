@@ -1,5 +1,5 @@
 ---
 title: "Bring A Bicycle"
 url: /jericho/bring-a-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bruno's Draft Kit"
 url: /grand-isle/brunos-draft-kit/
-shop: Schreibwaren
+shop: office supplies
 ---

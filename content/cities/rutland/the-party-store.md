@@ -1,5 +1,5 @@
 ---
 title: "The Party Store"
 url: /rutland/the-party-store/
-shop: Partyzubehör
+shop: party
 ---

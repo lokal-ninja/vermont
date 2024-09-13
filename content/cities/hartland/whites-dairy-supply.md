@@ -1,5 +1,5 @@
 ---
 title: "Whites Dairy Supply"
 url: /hartland/whites-dairy-supply/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

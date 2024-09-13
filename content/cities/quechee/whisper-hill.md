@@ -1,5 +1,5 @@
 ---
 title: "Whisper Hill"
 url: /quechee/whisper-hill/
-shop: Kosmetik
+shop: beauty
 ---

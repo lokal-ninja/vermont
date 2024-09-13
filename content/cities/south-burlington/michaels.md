@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /south-burlington/michaels/
-shop: Basteln
+shop: craft
 ---

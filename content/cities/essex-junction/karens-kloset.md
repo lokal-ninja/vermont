@@ -1,5 +1,5 @@
 ---
 title: "Karen's Kloset"
 url: /essex-junction/karens-kloset/
-shop: Kleidung
+shop: clothes
 ---

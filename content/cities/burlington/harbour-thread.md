@@ -1,5 +1,5 @@
 ---
 title: "Harbour Thread"
 url: /burlington/harbour-thread/
-shop: Kleidung
+shop: clothes
 ---

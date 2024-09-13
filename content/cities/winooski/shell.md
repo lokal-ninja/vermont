@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /winooski/shell/
-shop: Lebensmittel
+shop: convenience
 ---

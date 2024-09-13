@@ -1,5 +1,5 @@
 ---
 title: "Ed's Auto Repair"
 url: /monkton/eds-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

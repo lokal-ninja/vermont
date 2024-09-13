@@ -1,5 +1,5 @@
 ---
 title: "Mountain Riders"
 url: /jamaica/mountain-riders/
-shop: Sport
+shop: sports
 ---

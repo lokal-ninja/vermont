@@ -1,5 +1,5 @@
 ---
 title: "Quechee General Store"
 url: /quechee/quechee-general-store/
-shop: Dorfladen
+shop: general
 ---

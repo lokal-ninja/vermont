@@ -1,5 +1,5 @@
 ---
 title: "Weston Marketplace"
 url: /weston/weston-marketplace/
-shop: Dorfladen
+shop: general
 ---

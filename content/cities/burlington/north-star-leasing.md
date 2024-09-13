@@ -1,5 +1,5 @@
 ---
 title: "North Star Leasing"
 url: /burlington/north-star-leasing/
-shop: Mieten
+shop: storage rental
 ---

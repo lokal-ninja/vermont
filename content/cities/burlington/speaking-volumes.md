@@ -1,5 +1,5 @@
 ---
 title: "Speaking Volumes"
 url: /burlington/speaking-volumes/
-shop: Bücher
+shop: books
 ---

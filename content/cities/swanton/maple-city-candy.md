@@ -1,5 +1,5 @@
 ---
 title: "Maple City Candy"
 url: /swanton/maple-city-candy/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sugarbush Service Station Inc."
 url: /warren/sugarbush-service-station-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ReSOURCE"
 url: /williston/resource/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Specifics"
 url: /jeffersonville/salon-specifics/
-shop: Kosmetik
+shop: beauty
 ---

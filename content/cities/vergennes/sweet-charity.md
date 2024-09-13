@@ -1,5 +1,5 @@
 ---
 title: "Sweet Charity"
 url: /vergennes/sweet-charity/
-shop: Gebrauchtwaren
+shop: charity
 ---

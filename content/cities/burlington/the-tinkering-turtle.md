@@ -1,5 +1,5 @@
 ---
 title: "The Tinkering Turtle"
 url: /burlington/the-tinkering-turtle/
-shop: Spielzeug
+shop: toys
 ---

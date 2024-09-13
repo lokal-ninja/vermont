@@ -1,5 +1,5 @@
 ---
 title: "Sterling Autowerks"
 url: /south-burlington/sterling-autowerks/
-shop: Autowerkstatt
+shop: car repair
 ---

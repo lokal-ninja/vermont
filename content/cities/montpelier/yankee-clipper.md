@@ -1,5 +1,5 @@
 ---
 title: "Yankee Clipper"
 url: /montpelier/yankee-clipper/
-shop: Friseur
+shop: hairdresser
 ---

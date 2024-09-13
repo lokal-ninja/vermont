@@ -1,5 +1,5 @@
 ---
 title: "Habitat ReStore"
 url: /milton/habitat-restore/
-shop: Gebrauchtwaren
+shop: charity
 ---

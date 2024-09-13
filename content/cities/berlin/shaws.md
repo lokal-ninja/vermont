@@ -1,5 +1,5 @@
 ---
 title: "Shaw's"
 url: /berlin/shaws/
-shop: Supermarkt
+shop: supermarket
 ---

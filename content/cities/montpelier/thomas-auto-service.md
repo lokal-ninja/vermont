@@ -1,5 +1,5 @@
 ---
 title: "Thomas Auto Service"
 url: /montpelier/thomas-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

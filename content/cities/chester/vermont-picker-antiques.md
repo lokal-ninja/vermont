@@ -1,5 +1,5 @@
 ---
 title: "Vermont Picker Antiques"
 url: /chester/vermont-picker-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

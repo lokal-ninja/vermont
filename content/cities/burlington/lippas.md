@@ -1,5 +1,5 @@
 ---
 title: "Lippa's"
 url: /burlington/lippas/
-shop: Schmuck
+shop: jewelry
 ---

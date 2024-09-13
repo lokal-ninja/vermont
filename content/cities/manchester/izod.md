@@ -1,5 +1,5 @@
 ---
 title: "IZOD"
 url: /manchester/izod/
-shop: Kleidung
+shop: clothes
 ---

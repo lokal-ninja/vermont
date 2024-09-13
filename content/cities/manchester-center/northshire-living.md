@@ -1,5 +1,5 @@
 ---
 title: "Northshire Living"
 url: /manchester-center/northshire-living/
-shop: Haushaltsartikel
+shop: houseware
 ---

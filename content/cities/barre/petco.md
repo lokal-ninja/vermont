@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /barre/petco/
-shop: Tiere
+shop: pet
 ---

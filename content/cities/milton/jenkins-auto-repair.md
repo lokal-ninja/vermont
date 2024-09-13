@@ -1,5 +1,5 @@
 ---
 title: "Jenkins Auto Repair"
 url: /milton/jenkins-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cherry Hill Plaza"
 url: /barre/cherry-hill-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

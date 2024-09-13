@@ -1,5 +1,5 @@
 ---
 title: "Poulin Lumber"
 url: /milton/poulin-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

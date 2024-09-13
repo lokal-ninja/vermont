@@ -1,5 +1,5 @@
 ---
 title: "Bertha Church"
 url: /burlington/bertha-church/
-shop: Kleidung
+shop: clothes
 ---

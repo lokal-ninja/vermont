@@ -1,5 +1,5 @@
 ---
 title: "The Barber Todd"
 url: /montpelier/the-barber-todd/
-shop: Friseur
+shop: hairdresser
 ---

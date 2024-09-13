@@ -1,5 +1,5 @@
 ---
 title: "Farmhouse Chocolates"
 url: /bristol/farmhouse-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

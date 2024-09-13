@@ -1,5 +1,5 @@
 ---
 title: "The Quirky Pet"
 url: /montpelier/the-quirky-pet/
-shop: Tiere
+shop: pet
 ---

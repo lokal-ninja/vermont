@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /williston/ryder/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /south-burlington/kohls/
-shop: Warenhaus
+shop: department store
 ---

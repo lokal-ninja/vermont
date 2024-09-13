@@ -1,5 +1,5 @@
 ---
 title: "Snowflake Chocolates"
 url: /south-burlington/snowflake-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

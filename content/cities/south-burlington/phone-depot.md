@@ -1,5 +1,5 @@
 ---
 title: "Phone Depot"
 url: /south-burlington/phone-depot/
-shop: Handy
+shop: mobile phone
 ---

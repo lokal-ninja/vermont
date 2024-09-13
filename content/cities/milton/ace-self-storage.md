@@ -1,5 +1,5 @@
 ---
 title: "Ace Self Storage"
 url: /milton/ace-self-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pool World"
 url: /burlington/pool-world/
-shop: Pool
+shop: swimming pool
 ---

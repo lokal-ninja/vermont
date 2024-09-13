@@ -1,5 +1,5 @@
 ---
 title: "Broughton True Value Hardware"
 url: /bridport/broughton-true-value-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

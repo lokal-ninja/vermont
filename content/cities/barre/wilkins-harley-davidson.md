@@ -1,5 +1,5 @@
 ---
 title: "Wilkins Harley-Davidson"
 url: /barre/wilkins-harley-davidson/
-shop: Motorrad
+shop: motorcycle
 ---

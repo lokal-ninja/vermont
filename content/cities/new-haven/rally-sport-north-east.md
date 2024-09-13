@@ -1,5 +1,5 @@
 ---
 title: "Rally Sport North East"
 url: /new-haven/rally-sport-north-east/
-shop: Autowerkstatt
+shop: car repair
 ---

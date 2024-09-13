@@ -1,5 +1,5 @@
 ---
 title: "Academy Mortgage"
 url: /barre/academy-mortgage/
-shop: Leiher
+shop: pawnbroker
 ---

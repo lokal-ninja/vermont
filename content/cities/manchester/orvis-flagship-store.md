@@ -1,5 +1,5 @@
 ---
 title: "Orvis Flagship Store"
 url: /manchester/orvis-flagship-store/
-shop: Outdoor
+shop: outdoor
 ---
