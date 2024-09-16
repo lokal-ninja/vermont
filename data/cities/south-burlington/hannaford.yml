@@ -1,11 +1,11 @@
 id: 30730639
-type: way
+type: node
 latitude: 44.46239
 longitude: -73.18436
 postcode: "05401"
 city: South Burlington
-street: "Dorset Street"
-housenumber: 217
-phone: "+1 802-863-6311"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.hannaford.com/vt/south-burlington/8357"
+street: Dorset Street
+housenumber: "217"
+phone: +1 802-863-6311
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.hannaford.com/vt/south-burlington/8357

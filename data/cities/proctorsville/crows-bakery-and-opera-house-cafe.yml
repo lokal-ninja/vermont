@@ -1,11 +1,11 @@
 id: 861209986
-type: way
+type: node
 latitude: 43.38199
 longitude: -72.63742
 postcode: "05153"
 city: Proctorsville
-street: "Depot Street"
-housenumber: 73
+street: Depot Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

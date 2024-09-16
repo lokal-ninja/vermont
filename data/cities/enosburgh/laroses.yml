@@ -1,11 +1,11 @@
 id: 641998670
-type: way
+type: node
 latitude: 44.90581
 longitude: -72.80632
 postcode: "05450"
 city: Enosburgh
-street: "Main Street"
-housenumber: 209
+street: Main Street
+housenumber: "209"
 phone: ""
 opening_hours: ""
-website: "https://www.larosesinc.com/"
+website: https://www.larosesinc.com/

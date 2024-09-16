@@ -4,8 +4,8 @@ latitude: 44.4792
 longitude: -73.21215
 postcode: "05401"
 city: Burlington
-street: "Cherry Street"
-housenumber: 145
+street: Cherry Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://www.thevaultcollective.com/"
+website: https://www.thevaultcollective.com/

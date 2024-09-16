@@ -1,11 +1,11 @@
 id: 608724258
-type: way
+type: node
 latitude: 44.13297
 longitude: -73.07822
 postcode: "05443"
 city: Bristol
-street: "Main Street"
-housenumber: 3
+street: Main Street
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 06:30-21:00"
+opening_hours: Mo-Su 06:30-21:00
 website: ""

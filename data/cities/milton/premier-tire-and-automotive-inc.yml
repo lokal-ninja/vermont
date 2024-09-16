@@ -1,11 +1,11 @@
 id: 1128082170
-type: way
+type: node
 latitude: 44.62185
 longitude: -73.13024
 postcode: "05468"
 city: Milton
-street: "U.S. Route 7 South"
-housenumber: 338
-phone: "+1 802-893-7070"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.premiertirevt.com/"
+street: U.S. Route 7 South
+housenumber: "338"
+phone: +1 802-893-7070
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.premiertirevt.com/

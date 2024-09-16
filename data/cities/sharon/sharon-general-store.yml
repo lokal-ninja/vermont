@@ -1,11 +1,11 @@
 id: 929291173
-type: way
+type: node
 latitude: 43.78402
 longitude: -72.45473
 postcode: "05065"
 city: Sharon
-street: "Route 14"
-housenumber: 5038
+street: Route 14
+housenumber: "5038"
 phone: ""
 opening_hours: ""
 website: ""

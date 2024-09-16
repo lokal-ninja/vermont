@@ -1,11 +1,11 @@
 id: 681385506
-type: way
+type: node
 latitude: 44.133
 longitude: -73.07939
 postcode: "05443"
 city: Bristol
-street: "West Street"
-housenumber: 3
+street: West Street
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:00, Sa-Su 07:00-23:00"
+opening_hours: Mo-Fr 06:00-23:00, Sa-Su 07:00-23:00
 website: ""

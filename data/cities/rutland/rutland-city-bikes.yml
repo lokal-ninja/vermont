@@ -4,8 +4,8 @@ latitude: 43.60498
 longitude: -73.00005
 postcode: "05701"
 city: Rutland
-street: "West Street"
-housenumber: 411
-phone: "+1-802-786-3800"
+street: West Street
+housenumber: "411"
+phone: +1-802-786-3800
 opening_hours: ""
-website: "https://www.rutlandcitybikes.com/"
+website: https://www.rutlandcitybikes.com/

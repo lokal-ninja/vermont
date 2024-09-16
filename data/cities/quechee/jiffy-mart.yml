@@ -1,11 +1,11 @@
 id: 866037129
-type: way
+type: node
 latitude: 43.64256
 longitude: -72.41876
 postcode: "05059"
 city: Quechee
-street: "Woodstock Road"
-housenumber: 6800
-phone: "+1-802-296-6735"
+street: Woodstock Road
+housenumber: "6800"
+phone: +1-802-296-6735
 opening_hours: ""
-website: "http://www.jiffymartstores.com/Home.html"
+website: http://www.jiffymartstores.com/Home.html

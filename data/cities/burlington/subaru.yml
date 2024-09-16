@@ -1,11 +1,11 @@
 id: 201653220
-type: way
+type: node
 latitude: 44.45576
 longitude: -73.20955
 postcode: ""
 city: Burlington
-street: "Shelburne Street"
-housenumber: 351
+street: Shelburne Street
+housenumber: "351"
 phone: ""
 opening_hours: ""
-website: "https://www.subaruvt.com/"
+website: https://www.subaruvt.com/

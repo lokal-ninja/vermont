@@ -1,11 +1,11 @@
 id: 982284386
-type: way
+type: node
 latitude: 43.17787
 longitude: -73.0542
 postcode: "05255"
 city: Manchester
-street: "Main Street"
-housenumber: 5023
+street: Main Street
+housenumber: "5023"
 phone: ""
 opening_hours: ""
 website: ""

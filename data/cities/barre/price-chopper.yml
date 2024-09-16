@@ -1,11 +1,11 @@
 id: 830375272
-type: way
+type: node
 latitude: 44.2238
 longitude: -72.54658
 postcode: "05641"
 city: Barre
-street: "Ames Drive"
-housenumber: 168
+street: Ames Drive
+housenumber: "168"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.pricechopper.com/stores/vt/barre/price-chopper-123.html"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.pricechopper.com/stores/vt/barre/price-chopper-123.html

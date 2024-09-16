@@ -1,11 +1,11 @@
 id: 697766928
-type: way
+type: node
 latitude: 42.88449
 longitude: -72.55764
 postcode: "05301"
 city: Brattleboro
-street: "Putney Road"
-housenumber: 1102
+street: Putney Road
+housenumber: "1102"
 phone: ""
 opening_hours: ""
 website: ""

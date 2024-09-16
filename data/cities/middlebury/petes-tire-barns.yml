@@ -1,11 +1,11 @@
 id: 376274621
-type: way
+type: node
 latitude: 43.99903
 longitude: -73.14647
 postcode: "05753"
 city: Middlebury
-street: "Willow Drive"
-housenumber: 28
-phone: "+1 802 388 4053"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
-website: "https://www.petestire.com/vermont-tire-sales-and-service/petes-tire-barns-inc-in-middlebury-vt/"
+street: Willow Drive
+housenumber: "28"
+phone: +1 802 388 4053
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
+website: https://www.petestire.com/vermont-tire-sales-and-service/petes-tire-barns-inc-in-middlebury-vt/

@@ -1,11 +1,11 @@
 id: 260644903
-type: way
+type: node
 latitude: 44.42301
 longitude: -73.17284
 postcode: "05403"
 city: South Burlington
-street: "Dorset Street"
-housenumber: 1580
+street: Dorset Street
+housenumber: "1580"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:30"
+opening_hours: Mo-Sa 08:00-17:30
 website: ""

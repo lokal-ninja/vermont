@@ -1,11 +1,11 @@
 id: 247711298
-type: way
+type: node
 latitude: 44.84138
 longitude: -73.09054
 postcode: "05478"
 city: Saint Albans
-street: "Tuckers Way"
-housenumber: 700
-phone: "+1 802-528-4110"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/2332/saint-albans-vt/whats-new"
+street: Tuckers Way
+housenumber: "700"
+phone: +1 802-528-4110
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/2332/saint-albans-vt/whats-new

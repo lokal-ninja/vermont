@@ -1,11 +1,11 @@
 id: 201655606
-type: way
+type: node
 latitude: 44.48205
 longitude: -73.21093
 postcode: ""
 city: Burlington
-street: "Winooski Avenue"
-housenumber: 56
+street: Winooski Avenue
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

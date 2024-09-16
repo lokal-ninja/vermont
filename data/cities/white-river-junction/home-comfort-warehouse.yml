@@ -1,11 +1,11 @@
 id: 770031616
-type: way
+type: node
 latitude: 43.65054
 longitude: -72.3199
 postcode: "05001"
 city: White River Junction
-street: "Bridge Street"
-housenumber: 54
-phone: "+1-802-295-8778"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://www.homecomfortwarehouse.com/"
+street: Bridge Street
+housenumber: "54"
+phone: +1-802-295-8778
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://www.homecomfortwarehouse.com/

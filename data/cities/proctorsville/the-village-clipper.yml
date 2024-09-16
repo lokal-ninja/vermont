@@ -1,11 +1,11 @@
 id: 861193522
-type: way
+type: node
 latitude: 43.38284
 longitude: -72.63871
 postcode: "05153"
 city: Proctorsville
-street: "Main Street"
-housenumber: 463
+street: Main Street
+housenumber: "463"
 phone: ""
 opening_hours: ""
 website: ""

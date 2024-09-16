@@ -1,11 +1,11 @@
 id: 830377018
-type: way
+type: node
 latitude: 44.22281
 longitude: -72.54793
 postcode: "05641"
 city: Berlin
-street: "US-302"
-housenumber: 900
-phone: "+1 802-476-0280"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
+street: US-302
+housenumber: "900"
+phone: +1 802-476-0280
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
 website: ""

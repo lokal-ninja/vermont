@@ -4,8 +4,8 @@ latitude: 44.49156
 longitude: -73.18819
 postcode: "05404"
 city: Winooski
-street: "West Allen Street"
-housenumber: 35
-phone: "+1 802 922 4025"
-opening_hours: "We-Fr 16:00-20:00; Sa 10:00-17:00; Su 10:00-15:00"
-website: "https://www.fcdecorspace.com/"
+street: West Allen Street
+housenumber: "35"
+phone: +1 802 922 4025
+opening_hours: We-Fr 16:00-20:00; Sa 10:00-17:00; Su 10:00-15:00
+website: https://www.fcdecorspace.com/

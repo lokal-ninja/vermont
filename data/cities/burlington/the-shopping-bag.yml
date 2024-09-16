@@ -1,11 +1,11 @@
 id: 201649542
-type: way
+type: node
 latitude: 44.48478
 longitude: -73.21546
 postcode: ""
 city: Burlington
-street: "North Street"
-housenumber: 166
+street: North Street
+housenumber: "166"
 phone: ""
 opening_hours: ""
-website: "https://www.shoppingbagvt.com"
+website: https://www.shoppingbagvt.com

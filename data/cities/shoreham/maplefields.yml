@@ -1,11 +1,11 @@
 id: 706694675
-type: way
+type: node
 latitude: 43.90001
 longitude: -73.30776
 postcode: "05770"
 city: Shoreham
-street: "State Route 22A"
-housenumber: 2949
+street: State Route 22A
+housenumber: "2949"
 phone: ""
-opening_hours: "Mo-Su 05:00-22:00"
+opening_hours: Mo-Su 05:00-22:00
 website: ""

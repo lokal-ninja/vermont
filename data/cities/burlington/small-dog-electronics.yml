@@ -4,8 +4,8 @@ latitude: 44.45563
 longitude: -73.21403
 postcode: "05401"
 city: Burlington
-street: "Flynn Avenue"
-housenumber: 316
-phone: "+1 802-862-1316"
+street: Flynn Avenue
+housenumber: "316"
+phone: +1 802-862-1316
 opening_hours: ""
-website: "https://smalldog.com/"
+website: https://smalldog.com/

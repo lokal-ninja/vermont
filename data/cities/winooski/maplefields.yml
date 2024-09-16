@@ -1,11 +1,11 @@
 id: 301540956
-type: way
+type: node
 latitude: 44.493
 longitude: -73.1753
 postcode: "05404"
 city: Winooski
-street: "East Allen Street"
-housenumber: 298
+street: East Allen Street
+housenumber: "298"
 phone: ""
 opening_hours: ""
-website: "https://maplefields.com/"
+website: https://maplefields.com/

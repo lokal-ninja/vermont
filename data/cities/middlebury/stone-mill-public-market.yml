@@ -4,8 +4,8 @@ latitude: 44.01319
 longitude: -73.17008
 postcode: "05753"
 city: Middlebury
-street: "Mill Street"
-housenumber: 3
+street: Mill Street
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,We-Sa 10:00-18:00; Su 11:30-17:00"
-website: "https://www.stonemillvt.com/public-market"
+opening_hours: Mo,We-Sa 10:00-18:00; Su 11:30-17:00
+website: https://www.stonemillvt.com/public-market

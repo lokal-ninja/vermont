@@ -1,11 +1,11 @@
 id: 554543044
-type: way
+type: node
 latitude: 43.4674
 longitude: -72.46956
 postcode: "05037"
 city: West Windsor
-street: "Vermont Route 44"
-housenumber: 871
+street: Vermont Route 44
+housenumber: "871"
 phone: ""
 opening_hours: ""
 website: ""

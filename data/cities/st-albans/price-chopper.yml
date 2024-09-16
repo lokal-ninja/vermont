@@ -1,11 +1,11 @@
 id: 704961547
-type: way
+type: node
 latitude: 44.83602
 longitude: -73.08397
 postcode: "05478"
 city: St Albans
-street: "Swanton Road"
-housenumber: 
+street: Swanton Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

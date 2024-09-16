@@ -4,8 +4,8 @@ latitude: 44.4792
 longitude: -73.212
 postcode: "05401"
 city: Burlington
-street: "Cherry Street"
-housenumber: 151
+street: Cherry Street
+housenumber: "151"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/OldGoldVT/"
+website: https://www.facebook.com/OldGoldVT/

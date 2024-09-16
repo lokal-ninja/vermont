@@ -1,11 +1,11 @@
 id: 866037125
-type: way
+type: node
 latitude: 43.64348
 longitude: -72.42216
 postcode: "05059"
 city: Quechee
-street: "Woodstock Road"
-housenumber: 6990
-phone: "+1-802-291-6109"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.squecheeclean.com/"
+street: Woodstock Road
+housenumber: "6990"
+phone: +1-802-291-6109
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.squecheeclean.com/

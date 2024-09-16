@@ -1,11 +1,11 @@
 id: 461584189
-type: way
+type: node
 latitude: 44.13994
 longitude: -72.88461
 postcode: "05674"
 city: Warren
-street: "Sugarbush Access Road"
-housenumber: 2367
+street: Sugarbush Access Road
+housenumber: "2367"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00, Su 08:00-17:00"
+opening_hours: Mo-Sa 08:00-19:00, Su 08:00-17:00
 website: ""

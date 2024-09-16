@@ -4,8 +4,8 @@ latitude: 43.17578
 longitude: -73.05246
 postcode: "05255"
 city: Manchester Center
-street: "Depot Street"
-housenumber: 263
-phone: "+1-802-362-2833"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/manchester-center/vt/705451"
+street: Depot Street
+housenumber: "263"
+phone: +1-802-362-2833
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/manchester-center/vt/705451

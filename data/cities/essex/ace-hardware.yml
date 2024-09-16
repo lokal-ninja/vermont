@@ -1,11 +1,11 @@
 id: 737424266
-type: way
+type: node
 latitude: 44.50792
 longitude: -73.07959
 postcode: "05452"
 city: Essex
-street: "Essex Way"
-housenumber: 15
-phone: "+1 802-879-0249"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:00-17:00"
+street: Essex Way
+housenumber: "15"
+phone: +1 802-879-0249
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-17:00
 website: ""

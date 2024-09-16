@@ -1,11 +1,11 @@
 id: 243501047
-type: way
+type: node
 latitude: 44.24999
 longitude: -72.55687
 postcode: "05602"
 city: Montpelier
-street: "River Street"
-housenumber: 190
+street: River Street
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00"
+opening_hours: Mo-Fr 09:00-15:00
 website: ""

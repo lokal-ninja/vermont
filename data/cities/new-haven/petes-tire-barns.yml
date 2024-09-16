@@ -1,11 +1,11 @@
 id: 706084611
-type: way
+type: node
 latitude: 44.08654
 longitude: -73.17405
 postcode: "05472"
 city: New Haven
-street: "Hunt Road"
-housenumber: 92
+street: Hunt Road
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00, Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:30-17:00, Sa 07:30-12:00
 website: ""

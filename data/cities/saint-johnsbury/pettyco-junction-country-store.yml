@@ -1,11 +1,11 @@
 id: 980759391
-type: way
+type: node
 latitude: 44.43001
 longitude: -71.96249
 postcode: "05819"
 city: Saint Johnsbury
-street: "U.S. Route 2 East"
-housenumber: 12
+street: U.S. Route 2 East
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

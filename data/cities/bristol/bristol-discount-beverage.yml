@@ -1,11 +1,11 @@
 id: 608724268
-type: way
+type: node
 latitude: 44.13355
 longitude: -73.07599
 postcode: "05443"
 city: Bristol
-street: "Prince Lane"
-housenumber: 21
+street: Prince Lane
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

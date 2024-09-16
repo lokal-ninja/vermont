@@ -1,11 +1,11 @@
 id: 987684614
-type: way
+type: node
 latitude: 43.17692
 longitude: -73.05238
 postcode: "05255"
 city: Manchester Center
-street: "Center Hill Road"
-housenumber: 303
-phone: "+1-802-362-0033"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.naturesmarketvt.com/"
+street: Center Hill Road
+housenumber: "303"
+phone: +1-802-362-0033
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.naturesmarketvt.com/

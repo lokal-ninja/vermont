@@ -1,11 +1,11 @@
 id: 879465427
-type: way
+type: node
 latitude: 44.63457
 longitude: -72.67681
 postcode: "05656"
 city: Johnson
-street: "Lower Main Street East"
-housenumber: 143
-phone: "+1-802-635-7200"
-opening_hours: "Mo-Su 05:00-23:59"
-website: "https://maplefields.com/"
+street: Lower Main Street East
+housenumber: "143"
+phone: +1-802-635-7200
+opening_hours: Mo-Su 05:00-23:59
+website: https://maplefields.com/

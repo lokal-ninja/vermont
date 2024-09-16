@@ -1,11 +1,11 @@
 id: 1075090113
-type: way
+type: node
 latitude: 44.42108
 longitude: -72.00732
 postcode: "05819"
 city: Saint Johnsbury
-street: "Portland Street"
-housenumber: 425
-phone: "+1 (802) 748-0080"
+street: Portland Street
+housenumber: "425"
+phone: +1 (802) 748-0080
 opening_hours: ""
 website: ""

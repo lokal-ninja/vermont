@@ -1,11 +1,11 @@
 id: 1127943119
-type: way
+type: node
 latitude: 44.62741
 longitude: -73.1407
 postcode: "05468"
 city: Milton
-street: "Nancy Drive"
-housenumber: 7
-phone: "+1 802-893-4326"
+street: Nancy Drive
+housenumber: "7"
+phone: +1 802-893-4326
 opening_hours: ""
 website: ""

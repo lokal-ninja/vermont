@@ -1,11 +1,11 @@
 id: 667345488
-type: way
+type: node
 latitude: 44.46589
 longitude: -73.16706
 postcode: "05403"
 city: South Burlington
-street: "Williston Road"
-housenumber: 1437
+street: Williston Road
+housenumber: "1437"
 phone: ""
 opening_hours: ""
 website: ""

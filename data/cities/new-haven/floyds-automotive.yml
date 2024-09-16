@@ -1,11 +1,11 @@
 id: 838293808
-type: way
+type: node
 latitude: 44.1465
 longitude: -73.20929
 postcode: "05472"
 city: New Haven
-street: "Ethan Allen Highway"
-housenumber: 7531
+street: Ethan Allen Highway
+housenumber: "7531"
 phone: "+18028771580"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 918500067
-type: way
+type: node
 latitude: 44.50319
 longitude: -72.36599
 postcode: "05843"
 city: Hardwick
-street: "Perry Lane Hill"
-housenumber: 95
-phone: "+1 802-472-5143"
-opening_hours: "Mo-Fr 08:30-16:00"
-website: "https://magicspoonbakery.com/"
+street: Perry Lane Hill
+housenumber: "95"
+phone: +1 802-472-5143
+opening_hours: Mo-Fr 08:30-16:00
+website: https://magicspoonbakery.com/

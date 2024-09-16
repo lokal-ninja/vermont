@@ -1,11 +1,11 @@
 id: 514862775
-type: way
+type: node
 latitude: 44.82551
 longitude: -73.28905
 postcode: "05474"
 city: North Hero
-street: "Savage Point Road"
-housenumber: 303
-phone: "+1-802-372-9789"
+street: Savage Point Road
+housenumber: "303"
+phone: +1-802-372-9789
 opening_hours: ""
-website: "https://savagegardensvt.com/"
+website: https://savagegardensvt.com/

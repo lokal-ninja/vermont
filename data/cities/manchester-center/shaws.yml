@@ -1,11 +1,11 @@
 id: 30988417
-type: way
+type: node
 latitude: 43.17187
 longitude: -73.06215
 postcode: "05255"
 city: Manchester Center
-street: "Equinox Terrace"
-housenumber: 64
+street: Equinox Terrace
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://local.shaws.com/vt/manchester-center/64-equinox-terrace.html"
+website: https://local.shaws.com/vt/manchester-center/64-equinox-terrace.html

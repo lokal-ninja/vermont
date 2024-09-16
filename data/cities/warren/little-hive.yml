@@ -1,11 +1,11 @@
 id: 835075543
-type: way
+type: node
 latitude: 44.11475
 longitude: -72.85596
 postcode: "05674"
 city: Warren
-street: "Main Street"
-housenumber: 266
+street: Main Street
+housenumber: "266"
 phone: ""
-opening_hours: "Th-Su 11:00-16:00"
+opening_hours: Th-Su 11:00-16:00
 website: ""

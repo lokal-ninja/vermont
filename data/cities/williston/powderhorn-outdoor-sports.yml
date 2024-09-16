@@ -1,11 +1,11 @@
 id: 544147555
-type: way
+type: node
 latitude: 44.45036
 longitude: -73.11206
 postcode: "05495"
 city: Williston
-street: "Williston Road"
-housenumber: 5755
+street: Williston Road
+housenumber: "5755"
 phone: ""
 opening_hours: ""
 website: ""

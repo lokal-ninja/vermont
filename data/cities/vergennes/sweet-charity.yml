@@ -1,11 +1,11 @@
 id: 838620009
-type: way
+type: node
 latitude: 44.16814
 longitude: -73.25098
 postcode: "05491"
 city: Vergennes
-street: "Main Street"
-housenumber: 141
+street: Main Street
+housenumber: "141"
 phone: "+18028776200"
-opening_hours: "Mo-Sa 10:00-17:00, Su 12:00-16:00"
-website: "https://www.sweetcharityvt.com/"
+opening_hours: Mo-Sa 10:00-17:00, Su 12:00-16:00
+website: https://www.sweetcharityvt.com/

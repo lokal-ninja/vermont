@@ -1,11 +1,11 @@
 id: 182726764
-type: way
+type: node
 latitude: 44.50735
 longitude: -73.13911
 postcode: "05452"
 city: Essex Junction
-street: "Susie Wilson Road"
-housenumber: 10
-phone: "+1 802-662-9131"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/vt-essex-junction/2693"
+street: Susie Wilson Road
+housenumber: "10"
+phone: +1 802-662-9131
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/vt-essex-junction/2693

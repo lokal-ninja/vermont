@@ -1,11 +1,11 @@
 id: 552820271
-type: way
+type: node
 latitude: 44.98158
 longitude: -73.29739
 postcode: "05440"
 city: Alburgh
-street: "North Main Street"
-housenumber: 342
-phone: "+1-802-796-4705"
+street: North Main Street
+housenumber: "342"
+phone: +1-802-796-4705
 opening_hours: ""
 website: ""

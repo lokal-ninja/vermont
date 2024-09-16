@@ -1,11 +1,11 @@
 id: 378032172
-type: way
+type: node
 latitude: 44.01814
 longitude: -73.16975
 postcode: "05753"
 city: Middlebury
-street: "Seymour Street"
-housenumber: 33
+street: Seymour Street
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

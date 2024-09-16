@@ -1,11 +1,11 @@
 id: 378155309
-type: way
+type: node
 latitude: 44.0438
 longitude: -73.16298
 postcode: "05753"
 city: Middlebury
-street: "US Route 7 North"
-housenumber: 1485
+street: US Route 7 North
+housenumber: "1485"
 phone: "+18023982200"
-opening_hours: "Mo-Fr 14:00-18:00; Sa-Su 09:00-15:00"
-website: "https://www.monroestreetbooks.com/"
+opening_hours: Mo-Fr 14:00-18:00; Sa-Su 09:00-15:00
+website: https://www.monroestreetbooks.com/

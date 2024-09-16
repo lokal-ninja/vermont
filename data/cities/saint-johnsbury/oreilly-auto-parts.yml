@@ -1,11 +1,11 @@
 id: 1033094988
-type: way
+type: node
 latitude: 44.44103
 longitude: -72.0137
 postcode: "05819"
 city: Saint Johnsbury
-street: "Memorial Drive"
-housenumber: 590
-phone: "+1 (802) 748-2327"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-17:00"
-website: "https://locations.oreillyauto.com/vt/saintjohnsbury/autoparts-5675.html"
+street: Memorial Drive
+housenumber: "590"
+phone: +1 (802) 748-2327
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-17:00
+website: https://locations.oreillyauto.com/vt/saintjohnsbury/autoparts-5675.html

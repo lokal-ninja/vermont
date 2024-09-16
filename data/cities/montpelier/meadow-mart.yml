@@ -1,11 +1,11 @@
 id: 265143254
-type: way
+type: node
 latitude: 44.26621
 longitude: -72.56934
 postcode: "05602"
 city: Montpelier
-street: "Elm Street"
-housenumber: 284
+street: Elm Street
+housenumber: "284"
 phone: ""
-opening_hours: "Mo,We-Sa 09:00-19:00; Su 09:00-15:00"
+opening_hours: Mo,We-Sa 09:00-19:00; Su 09:00-15:00
 website: ""

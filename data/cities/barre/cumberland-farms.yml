@@ -1,11 +1,11 @@
 id: 832668765
-type: way
+type: node
 latitude: 44.18969
 longitude: -72.49811
 postcode: "05641"
 city: Barre
-street: "South Main Street"
-housenumber: 132
+street: South Main Street
+housenumber: "132"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

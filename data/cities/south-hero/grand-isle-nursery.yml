@@ -1,11 +1,11 @@
 id: 912367102
-type: way
+type: node
 latitude: 44.66771
 longitude: -73.3318
 postcode: "05486"
 city: South Hero
-street: "Ferry Road"
-housenumber: 50
-phone: "+1 802 372 8805"
+street: Ferry Road
+housenumber: "50"
+phone: +1 802 372 8805
 opening_hours: ""
-website: "https://www.grandislefarm.com/"
+website: https://www.grandislefarm.com/

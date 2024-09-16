@@ -1,11 +1,11 @@
 id: 1013585722
-type: way
+type: node
 latitude: 43.17289
 longitude: -73.0479
 postcode: "05255"
 city: Manchester
-street: "Depot Street"
-housenumber: 530
+street: Depot Street
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

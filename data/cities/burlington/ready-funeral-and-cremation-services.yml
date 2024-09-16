@@ -1,11 +1,11 @@
 id: 201651886
-type: way
+type: node
 latitude: 44.45815
 longitude: -73.20899
 postcode: ""
 city: Burlington
-street: "Shelburne Street"
-housenumber: 261
+street: Shelburne Street
+housenumber: "261"
 phone: ""
 opening_hours: ""
-website: "https://www.readyfuneral.com/"
+website: https://www.readyfuneral.com/

@@ -1,11 +1,11 @@
 id: 766060527
-type: way
+type: node
 latitude: 43.17303
 longitude: -73.06145
 postcode: "05255"
 city: Manchester
-street: "Main Street"
-housenumber: 4542
-phone: "+1-802-362-4372"
+street: Main Street
+housenumber: "4542"
+phone: +1-802-362-4372
 opening_hours: ""
-website: "https://izod.com/"
+website: https://izod.com/

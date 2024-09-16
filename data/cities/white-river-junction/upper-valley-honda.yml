@@ -1,11 +1,11 @@
 id: 896905890
-type: way
+type: node
 latitude: 43.64559
 longitude: -72.33519
 postcode: "05001"
 city: White River Junction
-street: "Ralph Lehman Drive"
-housenumber: 63
+street: Ralph Lehman Drive
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.uppervalleyhonda.com/"
+website: https://www.uppervalleyhonda.com/

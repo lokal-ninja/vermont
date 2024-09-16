@@ -1,11 +1,11 @@
 id: 1073860895
-type: way
+type: node
 latitude: 44.43998
 longitude: -71.94639
 postcode: "05838"
 city: East Saint Johnsbury
-street: "U.S. Route 2 East"
-housenumber: 1207
-phone: "1 802 424 1064"
+street: U.S. Route 2 East
+housenumber: "1207"
+phone: 1 802 424 1064
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.47902
 longitude: -73.2125
 postcode: "05401"
 city: Burlington
-street: "Church Street"
-housenumber: 46
+street: Church Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://uvmbookstore.uvm.edu/site_catamountstore.asp"
+website: https://uvmbookstore.uvm.edu/site_catamountstore.asp

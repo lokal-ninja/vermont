@@ -1,11 +1,11 @@
 id: 421337867
-type: way
+type: node
 latitude: 44.45558
 longitude: -73.22071
 postcode: "05401"
 city: Burlington
-street: "Flynn Avenue"
-housenumber: 199
+street: Flynn Avenue
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

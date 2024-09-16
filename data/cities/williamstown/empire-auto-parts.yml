@@ -1,11 +1,11 @@
 id: 833593415
-type: way
+type: node
 latitude: 44.11546
 longitude: -72.53817
 postcode: "05679"
 city: Williamstown
-street: "Main Street"
-housenumber: 2861
+street: Main Street
+housenumber: "2861"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

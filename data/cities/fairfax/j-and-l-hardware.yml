@@ -1,11 +1,11 @@
 id: 1176081644
-type: way
+type: node
 latitude: 44.65614
 longitude: -73.00881
 postcode: "05454"
 city: Fairfax
-street: "Field Road"
-housenumber: 4
-phone: "+1 802-849-6402"
+street: Field Road
+housenumber: "4"
+phone: +1 802-849-6402
 opening_hours: ""
 website: ""

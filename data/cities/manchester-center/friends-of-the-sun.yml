@@ -1,11 +1,11 @@
 id: 430457121
-type: way
+type: node
 latitude: 43.17627
 longitude: -73.05445
 postcode: "05255"
 city: Manchester Center
-street: "Depot Street"
-housenumber: 159
-phone: "+1-800-639-2603"
-opening_hours: "Mo-Tu 9:00-18:00; Th-Sa 9:00-18:00"
-website: "http://www.greenmountainhearth.com/"
+street: Depot Street
+housenumber: "159"
+phone: +1-800-639-2603
+opening_hours: Mo-Tu 9:00-18:00; Th-Sa 9:00-18:00
+website: http://www.greenmountainhearth.com/

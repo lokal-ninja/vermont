@@ -4,8 +4,8 @@ latitude: 43.1777
 longitude: -73.05585
 postcode: "05255"
 city: Manchester Center
-street: "Main Street"
-housenumber: 4961
-phone: "+1-802-768-1930"
-opening_hours: "Th-Mo 10:00-18:00"
-website: "https://sovtantiques.com/"
+street: Main Street
+housenumber: "4961"
+phone: +1-802-768-1930
+opening_hours: Th-Mo 10:00-18:00
+website: https://sovtantiques.com/

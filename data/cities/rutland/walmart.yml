@@ -1,11 +1,11 @@
 id: 143932159
-type: way
+type: node
 latitude: 43.60478
 longitude: -72.98069
 postcode: "05701"
 city: Rutland
-street: "Rutland Shopping Plaza"
-housenumber: 1
-phone: "+1 802-773-0200"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2530/rutland-vt/whats-new"
+street: Rutland Shopping Plaza
+housenumber: "1"
+phone: +1 802-773-0200
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2530/rutland-vt/whats-new

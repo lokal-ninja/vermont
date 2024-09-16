@@ -1,11 +1,11 @@
 id: 1212647324
-type: way
+type: node
 latitude: 44.44024
 longitude: -73.08
 postcode: "05495"
 city: Williston
-street: "Williston Road"
-housenumber: 7531
-phone: "+1 802-288-8081"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.northeastfiberarts.com/"
+street: Williston Road
+housenumber: "7531"
+phone: +1 802-288-8081
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.northeastfiberarts.com/

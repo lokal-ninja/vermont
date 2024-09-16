@@ -1,11 +1,11 @@
 id: 1173149717
-type: way
+type: node
 latitude: 44.62168
 longitude: -73.1273
 postcode: "05468"
 city: Milton
-street: "U.S. Route 7 South"
-housenumber: 309
-phone: "+1 802-309-1483"
-opening_hours: "Th-Sa 10:00-16:00"
-website: "http://poorfarmantiques.antiquetrail.com/"
+street: U.S. Route 7 South
+housenumber: "309"
+phone: +1 802-309-1483
+opening_hours: Th-Sa 10:00-16:00
+website: http://poorfarmantiques.antiquetrail.com/

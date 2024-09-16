@@ -1,11 +1,11 @@
 id: 705881433
-type: way
+type: node
 latitude: 44.12315
 longitude: -73.15249
 postcode: "05472"
 city: New Haven
-street: "South Street"
-housenumber: 71
+street: South Street
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

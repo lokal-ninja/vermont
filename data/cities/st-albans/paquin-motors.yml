@@ -1,11 +1,11 @@
 id: 704961527
-type: way
+type: node
 latitude: 44.83592
 longitude: -73.07712
 postcode: "05478"
 city: St Albans
-street: "Franklin Park West"
-housenumber: 2
-phone: "+1 855 578 3235"
+street: Franklin Park West
+housenumber: "2"
+phone: +1 855 578 3235
 opening_hours: ""
-website: "http://www.paquinmotors.net"
+website: http://www.paquinmotors.net

@@ -1,11 +1,11 @@
 id: 117118525
-type: way
+type: node
 latitude: 43.6263
 longitude: -72.51204
 postcode: "05091"
 city: Woodstock
-street: "Pleasant Street"
-housenumber: 37
+street: Pleasant Street
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

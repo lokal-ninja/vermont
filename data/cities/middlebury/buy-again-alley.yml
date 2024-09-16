@@ -4,8 +4,8 @@ latitude: 44.01315
 longitude: -73.16895
 postcode: "05753"
 city: Middlebury
-street: "Main Street"
-housenumber: 60
-phone: "+1 802 989 8934"
-opening_hours: "Mo-Sa 10:30-17:30; Su 11:00-16:00"
+street: Main Street
+housenumber: "60"
+phone: +1 802 989 8934
+opening_hours: Mo-Sa 10:30-17:30; Su 11:00-16:00
 website: ""

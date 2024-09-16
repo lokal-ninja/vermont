@@ -1,11 +1,11 @@
 id: 684407838
-type: way
+type: node
 latitude: 44.81387
 longitude: -73.08272
-postcode: "05478-1669"
+postcode: 05478-1669
 city: Saint Albans
-street: "North Main Street"
-housenumber: 109
-phone: "+1 802-527-7007"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-16:00"
+street: North Main Street
+housenumber: "109"
+phone: +1 802-527-7007
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 680142465
-type: way
+type: node
 latitude: 43.64775
 longitude: -72.33456
 postcode: "05001"
 city: White River Junction
-street: "North Main Street"
-housenumber: 1038
+street: North Main Street
+housenumber: "1038"
 phone: ""
 opening_hours: ""
 website: ""

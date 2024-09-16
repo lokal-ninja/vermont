@@ -1,11 +1,11 @@
 id: 241953576
-type: way
+type: node
 latitude: 43.9037
 longitude: -72.15005
 postcode: "05045"
 city: Fairlee
-street: "U.S. Route 5 South"
-housenumber: 9
-phone: "+1-802-333-9790"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "http://wingsmarkets.com/"
+street: U.S. Route 5 South
+housenumber: "9"
+phone: +1-802-333-9790
+opening_hours: Mo-Su 06:00-21:00
+website: http://wingsmarkets.com/

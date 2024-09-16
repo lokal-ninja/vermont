@@ -1,11 +1,11 @@
 id: 188845714
-type: way
+type: node
 latitude: 44.62507
 longitude: -73.13673
 postcode: "05468"
 city: Milton
-street: "U.S. Route 7 South"
-housenumber: 414
-phone: "+1 802-857-5296"
-opening_hours: "Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00"
-website: "https://vermonthabitat.org/restore/"
+street: U.S. Route 7 South
+housenumber: "414"
+phone: +1 802-857-5296
+opening_hours: Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00
+website: https://vermonthabitat.org/restore/

@@ -4,8 +4,8 @@ latitude: 44.45002
 longitude: -73.21083
 postcode: "05401"
 city: Burlington
-street: "Shelburne Street"
-housenumber: 555
-phone: "+1 802-658-7891"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Shelburne Street
+housenumber: "555"
+phone: +1 802-658-7891
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

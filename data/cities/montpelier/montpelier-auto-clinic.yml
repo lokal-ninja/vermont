@@ -1,11 +1,11 @@
 id: 243603511
-type: way
+type: node
 latitude: 44.25547
 longitude: -72.57574
 postcode: "05602"
 city: Montpelier
-street: "Berlin Street"
-housenumber: 57
+street: Berlin Street
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

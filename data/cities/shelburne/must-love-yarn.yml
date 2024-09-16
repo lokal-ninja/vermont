@@ -4,8 +4,8 @@ latitude: 44.42
 longitude: -73.21299
 postcode: "05482"
 city: Shelburne
-street: "Shelburne Road"
-housenumber: 2438
-phone: "(802) 448-3780"
-opening_hours: "Tu,Th,Fr 10:00-18:00; We 11:00-19:00; Sa 10:00-17:00; Su 12:00-16:00"
-website: "https://mustloveyarn.com/"
+street: Shelburne Road
+housenumber: "2438"
+phone: (802) 448-3780
+opening_hours: Tu,Th,Fr 10:00-18:00; We 11:00-19:00; Sa 10:00-17:00; Su 12:00-16:00
+website: https://mustloveyarn.com/

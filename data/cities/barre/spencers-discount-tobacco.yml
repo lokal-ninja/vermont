@@ -4,8 +4,8 @@ latitude: 44.19838
 longitude: -72.50238
 postcode: "05641"
 city: Barre
-street: "North Main Street"
-housenumber: 123
+street: North Main Street
+housenumber: "123"
 phone: ""
-opening_hours: "Mo 10:00-19:00, Tu-Sa 10:00-20:00, Su 12:00-20:00"
+opening_hours: Mo 10:00-19:00, Tu-Sa 10:00-20:00, Su 12:00-20:00
 website: ""

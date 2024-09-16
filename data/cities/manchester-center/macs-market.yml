@@ -1,11 +1,11 @@
 id: 982306310
-type: way
+type: node
 latitude: 43.17501
 longitude: -73.05239
 postcode: "05255"
 city: Manchester Center
-street: "Depot Street"
-housenumber: 271
+street: Depot Street
+housenumber: "271"
 phone: ""
 opening_hours: ""
 website: ""

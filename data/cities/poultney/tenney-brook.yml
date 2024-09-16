@@ -1,11 +1,11 @@
 id: 893165928
-type: way
+type: node
 latitude: 43.51676
 longitude: -73.23256
 postcode: "05764"
 city: Poultney
-street: "East Main Street"
-housenumber: 10
+street: East Main Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

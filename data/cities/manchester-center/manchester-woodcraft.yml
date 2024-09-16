@@ -1,11 +1,11 @@
 id: 430457125
-type: way
+type: node
 latitude: 43.17547
 longitude: -73.05437
 postcode: "05255"
 city: Manchester Center
-street: "Depot Street"
-housenumber: 175
-phone: "+1 802 362 5770"
-opening_hours: "9:00-17:00"
-website: "https://www.manchesterwoodcraft.com/"
+street: Depot Street
+housenumber: "175"
+phone: +1 802 362 5770
+opening_hours: 9:00-17:00
+website: https://www.manchesterwoodcraft.com/

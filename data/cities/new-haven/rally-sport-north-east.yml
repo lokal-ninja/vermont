@@ -1,11 +1,11 @@
 id: 550898747
-type: way
+type: node
 latitude: 44.128
 longitude: -73.11703
 postcode: ""
 city: New Haven
-street: "Main Street"
-housenumber: 3305
-phone: "+1 802 453 5022"
+street: Main Street
+housenumber: "3305"
+phone: +1 802 453 5022
 opening_hours: ""
-website: "https://www.facebook.com/Rally-Sport-North-East-169429903100558/"
+website: https://www.facebook.com/Rally-Sport-North-East-169429903100558/

@@ -1,11 +1,11 @@
 id: 983442861
-type: way
+type: node
 latitude: 44.61896
 longitude: -73.12032
 postcode: "05468"
 city: Milton
-street: "Middle Road"
-housenumber: 69
+street: Middle Road
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

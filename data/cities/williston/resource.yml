@@ -4,8 +4,8 @@ latitude: 44.44834
 longitude: -73.11526
 postcode: ""
 city: Williston
-street: "Harvest Lane"
-housenumber: 329
-phone: "+1 802-857-4361"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://resourcevt.org/"
+street: Harvest Lane
+housenumber: "329"
+phone: +1 802-857-4361
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-17:00
+website: https://resourcevt.org/

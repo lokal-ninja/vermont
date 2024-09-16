@@ -1,11 +1,11 @@
 id: 105883781
-type: way
+type: node
 latitude: 44.47868
 longitude: -73.2116
 postcode: "05401"
 city: Burlington
-street: "South Winooski Avenue"
-housenumber: 75
+street: South Winooski Avenue
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://www.handysservicecenter.com/"
+website: https://www.handysservicecenter.com/

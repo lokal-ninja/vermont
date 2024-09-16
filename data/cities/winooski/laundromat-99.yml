@@ -1,11 +1,11 @@
 id: 278080827
-type: way
+type: node
 latitude: 44.49417
 longitude: -73.19137
 postcode: "05404"
 city: Winooski
-street: "Malletts Bay Avenue"
-housenumber: 99
+street: Malletts Bay Avenue
+housenumber: "99"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

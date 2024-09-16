@@ -1,11 +1,11 @@
 id: 685731087
-type: way
+type: node
 latitude: 43.6451
 longitude: -72.42488
 postcode: "05059"
 city: Quechee
-street: "Woodstock Road"
-housenumber: 7161
-phone: "+1-802-291-9900"
-opening_hours: "Mo-Su 7:00-20:00"
-website: "http://jakesquecheemarket.com/"
+street: Woodstock Road
+housenumber: "7161"
+phone: +1-802-291-9900
+opening_hours: Mo-Su 7:00-20:00
+website: http://jakesquecheemarket.com/

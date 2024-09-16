@@ -1,11 +1,11 @@
 id: 944840365
-type: way
+type: node
 latitude: 44.25863
 longitude: -72.57652
 postcode: "05602"
 city: Montpelier
-street: "Main Street"
-housenumber: 11
+street: Main Street
+housenumber: "11"
 phone: "+18022296663"
 opening_hours: ""
 website: ""

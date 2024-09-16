@@ -1,11 +1,11 @@
 id: 889104997
-type: way
+type: node
 latitude: 44.54996
 longitude: -73.2284
-postcode: "05446-1305"
+postcode: 05446-1305
 city: Colchester
-street: "West Lakeshore Drive"
-housenumber: 713
-phone: "+1 802-863-4910"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:00"
+street: West Lakeshore Drive
+housenumber: "713"
+phone: +1 802-863-4910
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:00
 website: ""

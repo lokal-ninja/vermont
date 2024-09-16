@@ -1,11 +1,11 @@
 id: 771216711
-type: way
+type: node
 latitude: 44.63568
 longitude: -72.6924
 postcode: "05656"
 city: Johnson
-street: "VT Route 15 West"
-housenumber: 25
+street: VT Route 15 West
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

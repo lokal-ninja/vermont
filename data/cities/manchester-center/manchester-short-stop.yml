@@ -1,11 +1,11 @@
 id: 985812257
-type: way
+type: node
 latitude: 43.17621
 longitude: -73.05797
 postcode: "05255"
 city: Manchester Center
-street: "Main Street"
-housenumber: 4803
+street: Main Street
+housenumber: "4803"
 phone: ""
 opening_hours: ""
 website: ""

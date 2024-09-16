@@ -1,11 +1,11 @@
 id: 1170405404
-type: way
+type: node
 latitude: 44.62559
 longitude: -73.13342
 postcode: "05468"
 city: Milton
-street: "U.S. Route 7 South"
-housenumber: 387
-phone: "+1 802-494-1181"
-opening_hours: "24/7"
-website: "https://www.ezaccessselfstoragevt.com/"
+street: U.S. Route 7 South
+housenumber: "387"
+phone: +1 802-494-1181
+opening_hours: 24/7
+website: https://www.ezaccessselfstoragevt.com/

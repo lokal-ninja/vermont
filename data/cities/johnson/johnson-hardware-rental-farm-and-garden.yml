@@ -1,11 +1,11 @@
 id: 779978983
-type: way
+type: node
 latitude: 44.64342
 longitude: -72.71785
 postcode: "05656"
 city: Johnson
-street: "State Route 15"
-housenumber: 1442
-phone: "+1-802-635-7282"
+street: State Route 15
+housenumber: "1442"
+phone: +1-802-635-7282
 opening_hours: ""
-website: "https://www.jhrvt.com/"
+website: https://www.jhrvt.com/

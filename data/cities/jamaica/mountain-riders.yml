@@ -1,11 +1,11 @@
 id: 1120389457
-type: way
+type: node
 latitude: 43.14656
 longitude: -72.84084
 postcode: "05343"
 city: Jamaica
-street: "Vermont Route 30"
-housenumber: 8768
+street: Vermont Route 30
+housenumber: "8768"
 phone: ""
 opening_hours: ""
 website: ""

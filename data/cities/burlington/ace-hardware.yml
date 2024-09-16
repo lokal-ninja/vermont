@@ -1,11 +1,11 @@
 id: 30594087
-type: way
+type: node
 latitude: 44.50531
 longitude: -73.24597
-postcode: "05408-2757"
+postcode: 05408-2757
 city: Burlington
-street: "North Avenue"
-housenumber: 1127
-phone: "+1 802-862-6068"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-16:30; Su 09:00-13:00"
+street: North Avenue
+housenumber: "1127"
+phone: +1 802-862-6068
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-16:30; Su 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.71347
 longitude: -72.30853
 postcode: "05055"
 city: Norwich
-street: "Main Street"
-housenumber: 291
+street: Main Street
+housenumber: "291"
 phone: ""
 opening_hours: ""
-website: "https://www.norwichbookstore.com/"
+website: https://www.norwichbookstore.com/

@@ -1,11 +1,11 @@
 id: 201656980
-type: way
+type: node
 latitude: 44.47567
 longitude: -73.21627
 postcode: ""
 city: Burlington
-street: "Main Street"
-housenumber: 77
-phone: "+1-802-651-7070"
-opening_hours: "Mo-Fr 08:30-18:00; Sa,Su 09:00-17:00"
-website: "https://www.vtjuiceco.com/"
+street: Main Street
+housenumber: "77"
+phone: +1-802-651-7070
+opening_hours: Mo-Fr 08:30-18:00; Sa,Su 09:00-17:00
+website: https://www.vtjuiceco.com/

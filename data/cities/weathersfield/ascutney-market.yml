@@ -1,11 +1,11 @@
 id: 980236041
-type: way
+type: node
 latitude: 43.41907
 longitude: -72.40381
 postcode: "05089"
 city: Weathersfield
-street: "U.S. Route 5"
-housenumber: 6014
+street: U.S. Route 5
+housenumber: "6014"
 phone: ""
 opening_hours: ""
 website: ""

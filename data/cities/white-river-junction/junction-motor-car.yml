@@ -1,11 +1,11 @@
 id: 693471319
-type: way
+type: node
 latitude: 43.64347
 longitude: -72.33998
 postcode: "05001"
 city: White River Junction
-street: "Ballardvale Drive"
-housenumber: 132
+street: Ballardvale Drive
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.junctionmotorcar.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.junctionmotorcar.com/

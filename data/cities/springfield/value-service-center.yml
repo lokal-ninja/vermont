@@ -1,11 +1,11 @@
 id: 801855303
-type: way
+type: node
 latitude: 43.29314
 longitude: -72.47687
 postcode: "05156"
 city: Springfield
-street: "Clinton Street"
-housenumber: 65
-phone: "(802) 885-4266"
+street: Clinton Street
+housenumber: "65"
+phone: (802) 885-4266
 opening_hours: ""
 website: ""

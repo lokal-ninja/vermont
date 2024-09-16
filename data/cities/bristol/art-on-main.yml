@@ -4,8 +4,8 @@ latitude: 44.13281
 longitude: -73.07736
 postcode: "05443"
 city: Bristol
-street: "Main Street"
-housenumber: 25
+street: Main Street
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Sa 11:00-17:00, Su 11:00-15:00"
+opening_hours: Tu-Sa 11:00-17:00, Su 11:00-15:00
 website: ""

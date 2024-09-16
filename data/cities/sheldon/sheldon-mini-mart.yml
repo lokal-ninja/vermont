@@ -1,11 +1,11 @@
 id: 982215632
-type: way
+type: node
 latitude: 44.90331
 longitude: -72.97646
 postcode: "05483"
 city: Sheldon
-street: "VT Route 105"
-housenumber: 2824
+street: VT Route 105
+housenumber: "2824"
 phone: ""
 opening_hours: ""
 website: ""

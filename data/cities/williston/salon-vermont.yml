@@ -4,8 +4,8 @@ latitude: 44.4528
 longitude: -73.11623
 postcode: "05495"
 city: Williston
-street: "Blair Park Road"
-housenumber: 34
-phone: "+1 802-242-4100"
-opening_hours: "by appointment"
-website: "https://www.salonvermont.com/"
+street: Blair Park Road
+housenumber: "34"
+phone: +1 802-242-4100
+opening_hours: '"by appointment"'
+website: https://www.salonvermont.com/

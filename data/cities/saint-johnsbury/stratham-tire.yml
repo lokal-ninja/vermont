@@ -1,11 +1,11 @@
 id: 1032843949
-type: way
+type: node
 latitude: 44.41517
 longitude: -72.0161
 postcode: "05819"
 city: Saint Johnsbury
-street: "Railroad Street"
-housenumber: 192
-phone: "+1 (802) 748-8382"
+street: Railroad Street
+housenumber: "192"
+phone: +1 (802) 748-8382
 opening_hours: ""
 website: ""

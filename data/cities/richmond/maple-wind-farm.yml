@@ -4,8 +4,8 @@ latitude: 44.40071
 longitude: -72.9747
 postcode: "05477"
 city: Richmond
-street: "East Main Street"
-housenumber: 1149
+street: East Main Street
+housenumber: "1149"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.maplewindfarm.com/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.maplewindfarm.com/

@@ -4,8 +4,8 @@ latitude: 44.43709
 longitude: -73.21077
 postcode: "05403"
 city: South Burlington
-street: "Shelburne Road"
-housenumber: 1185
-phone: "+1 802-865-4766"
-opening_hours: "Mo,Th 09:00-19:00; Tu-We 09:00-20:00; Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://stephenandburns.com/"
+street: Shelburne Road
+housenumber: "1185"
+phone: +1 802-865-4766
+opening_hours: Mo,Th 09:00-19:00; Tu-We 09:00-20:00; Fr 09:00-17:00; Sa 09:00-16:00
+website: https://stephenandburns.com/

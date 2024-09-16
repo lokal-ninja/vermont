@@ -1,11 +1,11 @@
 id: 983032760
-type: way
+type: node
 latitude: 44.16154
 longitude: -72.44943
 postcode: "05641"
 city: Barre Town
-street: "East Barre Road"
-housenumber: 973
+street: East Barre Road
+housenumber: "973"
 phone: ""
 opening_hours: ""
 website: ""

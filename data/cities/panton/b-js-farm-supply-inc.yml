@@ -1,11 +1,11 @@
 id: 839081773
-type: way
+type: node
 latitude: 44.15905
 longitude: -73.28482
 postcode: "05491"
 city: Panton
-street: "Panton Road"
-housenumber: 1326
-phone: "+1-802-475-2492"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-13:30; Su off"
+street: Panton Road
+housenumber: "1326"
+phone: +1-802-475-2492
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-13:30; Su off
 website: ""

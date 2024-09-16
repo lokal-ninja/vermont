@@ -1,11 +1,11 @@
 id: 697888543
-type: way
+type: node
 latitude: 44.4197
 longitude: -73.21339
 postcode: "05482"
 city: Shelburne
-street: "Shelburne Road"
-housenumber: 2500
-phone: "+1 802-985-8041"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.fisherautoparts.com/"
+street: Shelburne Road
+housenumber: "2500"
+phone: +1 802-985-8041
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.fisherautoparts.com/

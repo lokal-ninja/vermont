@@ -1,11 +1,11 @@
 id: 30730559
-type: way
+type: node
 latitude: 44.46309
 longitude: -73.18444
 postcode: ""
 city: South Burlington
-street: "Dorset Street"
-housenumber: 155
+street: Dorset Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

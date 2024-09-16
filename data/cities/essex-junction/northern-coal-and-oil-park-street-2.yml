@@ -1,11 +1,11 @@
 id: 1313766540
-type: way
+type: node
 latitude: 44.48853
 longitude: -73.11116
 postcode: "05452"
 city: Essex Junction
-street: "Park Street"
-housenumber: 34
+street: Park Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

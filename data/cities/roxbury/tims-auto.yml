@@ -1,11 +1,11 @@
 id: 835074782
-type: way
+type: node
 latitude: 44.08937
 longitude: -72.73456
 postcode: "05669"
 city: Roxbury
-street: "Roxbury Road"
-housenumber: 1784
+street: Roxbury Road
+housenumber: "1784"
 phone: ""
 opening_hours: ""
 website: ""

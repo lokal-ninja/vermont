@@ -1,11 +1,11 @@
 id: 372927299
-type: way
+type: node
 latitude: 44.01223
 longitude: -73.16419
 postcode: "05753"
 city: Middlebury
-street: "Court Street"
-housenumber: 25
+street: Court Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

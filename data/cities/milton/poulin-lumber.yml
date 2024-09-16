@@ -1,11 +1,11 @@
 id: 773881515
-type: way
+type: node
 latitude: 44.62151
 longitude: -73.12407
 postcode: "05468"
 city: Milton
-street: "U.S. Route 7 South"
-housenumber: 280
+street: U.S. Route 7 South
+housenumber: "280"
 phone: "+18028932441"
 opening_hours: ""
-website: "https://www.poulinlumber.com/locations/milton"
+website: https://www.poulinlumber.com/locations/milton

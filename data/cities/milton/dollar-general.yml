@@ -1,11 +1,11 @@
 id: 1139100578
-type: way
+type: node
 latitude: 44.62193
 longitude: -73.11997
 postcode: "05468"
 city: Milton
-street: "Middle Road"
-housenumber: 29
+street: Middle Road
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/vt/milton/11091"
+website: https://www.dollargeneral.com/store-directory/vt/milton/11091

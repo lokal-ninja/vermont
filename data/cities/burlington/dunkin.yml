@@ -1,11 +1,11 @@
 id: 201650826
-type: way
+type: node
 latitude: 44.45981
 longitude: -73.20767
 postcode: "05401"
 city: Burlington
-street: "Shelburne Street"
-housenumber: 206
-phone: "+1 802-658-6299"
-opening_hours: "Mo-Su 05:00-19:00"
-website: "https://locations.dunkindonuts.com/en/vt/burlington/206-shelburne-rd/300403"
+street: Shelburne Street
+housenumber: "206"
+phone: +1 802-658-6299
+opening_hours: Mo-Su 05:00-19:00
+website: https://locations.dunkindonuts.com/en/vt/burlington/206-shelburne-rd/300403

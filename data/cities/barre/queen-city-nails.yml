@@ -1,11 +1,11 @@
 id: 829782357
-type: way
+type: node
 latitude: 44.22865
 longitude: -72.55087
 postcode: "05641"
 city: Barre
-street: "US-302"
-housenumber: 1400
+street: US-302
+housenumber: "1400"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-17:00
 website: ""

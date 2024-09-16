@@ -1,11 +1,11 @@
 id: 831856651
-type: way
+type: node
 latitude: 44.20058
 longitude: -72.50486
 postcode: "05641"
 city: Barre
-street: "North Main Street"
-housenumber: 303
+street: North Main Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

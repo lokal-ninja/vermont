@@ -1,11 +1,11 @@
 id: 828873253
-type: way
+type: node
 latitude: 44.26042
 longitude: -72.57572
 postcode: "05602"
 city: Montpelier
-street: "State Street"
-housenumber: 5
+street: State Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:30; Su 11:00-16:00"
+opening_hours: Mo-Sa 10:00-17:30; Su 11:00-16:00
 website: ""

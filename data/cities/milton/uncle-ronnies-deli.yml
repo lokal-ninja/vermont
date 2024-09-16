@@ -1,11 +1,11 @@
 id: 1126552565
-type: way
+type: node
 latitude: 44.62748
 longitude: -73.14314
 postcode: "05468"
 city: Milton
-street: "U.S. Route 7 South"
-housenumber: 484
-phone: "+1 802-891-9187"
-opening_hours: "Mo-Su 06:00-21:00"
+street: U.S. Route 7 South
+housenumber: "484"
+phone: +1 802-891-9187
+opening_hours: Mo-Su 06:00-21:00
 website: ""

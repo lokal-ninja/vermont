@@ -1,11 +1,11 @@
 id: 980759394
-type: way
+type: node
 latitude: 44.45788
 longitude: -72.01451
 postcode: "05819"
 city: Saint Johnsbury
-street: "Memorial Drive"
-housenumber: 1786
-phone: "+1 802-748-8449"
+street: Memorial Drive
+housenumber: "1786"
+phone: +1 802-748-8449
 opening_hours: ""
-website: "http://www.centertowervt.com/"
+website: http://www.centertowervt.com/

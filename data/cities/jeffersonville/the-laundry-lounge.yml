@@ -1,11 +1,11 @@
 id: 738955450
-type: way
+type: node
 latitude: 44.64435
 longitude: -72.83014
 postcode: "05464"
 city: Jeffersonville
-street: "Maple Street"
-housenumber: 36
+street: Maple Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

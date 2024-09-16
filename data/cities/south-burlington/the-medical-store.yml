@@ -1,11 +1,11 @@
 id: 781419325
-type: way
+type: node
 latitude: 44.48513
 longitude: -73.16654
 postcode: "05403"
 city: South Burlington
-street: "Airport Parkway"
-housenumber: 1225
+street: Airport Parkway
+housenumber: "1225"
 phone: ""
 opening_hours: ""
 website: ""

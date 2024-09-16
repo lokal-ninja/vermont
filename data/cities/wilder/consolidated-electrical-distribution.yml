@@ -1,11 +1,11 @@
 id: 473681631
-type: way
+type: node
 latitude: 43.69547
 longitude: -72.31667
 postcode: "05088"
 city: Wilder
-street: "Olcott Drive"
-housenumber: 138
+street: Olcott Drive
+housenumber: "138"
 phone: ""
 opening_hours: ""
 website: ""

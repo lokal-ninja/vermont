@@ -1,11 +1,11 @@
 id: 833573060
-type: way
+type: node
 latitude: 44.15985
 longitude: -72.51278
 postcode: "05641"
 city: Barre
-street: "South Barre Road"
-housenumber: 894
+street: South Barre Road
+housenumber: "894"
 phone: ""
 opening_hours: ""
-website: "https://greendieselengineering.com/"
+website: https://greendieselengineering.com/

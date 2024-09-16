@@ -4,8 +4,8 @@ latitude: 44.49044
 longitude: -73.18502
 postcode: "05404"
 city: Winooski
-street: "Winooski Falls Way"
-housenumber: 25
-phone: "+1 802 654 7400"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:30-16:00"
-website: "http://www.salonsalonwinooski.com/"
+street: Winooski Falls Way
+housenumber: "25"
+phone: +1 802 654 7400
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:30-16:00
+website: http://www.salonsalonwinooski.com/

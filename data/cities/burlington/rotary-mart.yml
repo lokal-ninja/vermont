@@ -1,11 +1,11 @@
 id: 201647403
-type: way
+type: node
 latitude: 44.4625
 longitude: -73.20835
 postcode: ""
 city: Burlington
-street: "Shelburne Road"
-housenumber: 103
+street: Shelburne Road
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

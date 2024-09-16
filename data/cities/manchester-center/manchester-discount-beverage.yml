@@ -1,11 +1,11 @@
 id: 988307335
-type: way
+type: node
 latitude: 43.17374
 longitude: -73.05102
 postcode: "05255"
 city: Manchester Center
-street: "Depot Street"
-housenumber: 380
-phone: "+1 802 362 4075"
+street: Depot Street
+housenumber: "380"
+phone: +1 802 362 4075
 opening_hours: ""
 website: ""

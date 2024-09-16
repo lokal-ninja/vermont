@@ -1,11 +1,11 @@
 id: 834725766
-type: way
+type: node
 latitude: 44.14312
 longitude: -72.65709
 postcode: "05663"
 city: Northfield
-street: "South Main Street"
-housenumber: 404
+street: South Main Street
+housenumber: "404"
 phone: ""
-opening_hours: "closed temporarily closed"
+opening_hours: closed "temporarily closed"
 website: ""

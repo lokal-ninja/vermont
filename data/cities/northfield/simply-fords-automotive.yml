@@ -1,11 +1,11 @@
 id: 833940277
-type: way
+type: node
 latitude: 44.15314
 longitude: -72.65547
 postcode: "05663"
 city: Northfield
-street: "Belknap Avenue"
-housenumber: 102
+street: Belknap Avenue
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

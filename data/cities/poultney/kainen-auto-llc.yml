@@ -1,11 +1,11 @@
 id: 934060415
-type: way
+type: node
 latitude: 43.52101
 longitude: -73.23208
 postcode: "05764"
 city: Poultney
-street: "Beaman Street"
-housenumber: 258
-phone: "+1 802 417 4877"
+street: Beaman Street
+housenumber: "258"
+phone: +1 802 417 4877
 opening_hours: ""
 website: ""

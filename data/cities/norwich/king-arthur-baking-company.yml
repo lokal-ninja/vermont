@@ -1,11 +1,11 @@
 id: 543434305
-type: way
+type: node
 latitude: 43.70282
 longitude: -72.31094
 postcode: "05055"
 city: Norwich
-street: "US 5"
-housenumber: 135
-phone: "+1-802-649-3361"
-opening_hours: "Mo-Su 07:30-18:00"
-website: "https://www.kingarthurbaking.com/"
+street: US 5
+housenumber: "135"
+phone: +1-802-649-3361
+opening_hours: Mo-Su 07:30-18:00
+website: https://www.kingarthurbaking.com/

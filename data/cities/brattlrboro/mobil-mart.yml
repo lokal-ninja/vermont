@@ -1,11 +1,11 @@
 id: 360040229
-type: way
+type: node
 latitude: 42.8849
 longitude: -72.55753
 postcode: ""
 city: Brattlrboro
-street: "Putney Road"
-housenumber: 1114
+street: Putney Road
+housenumber: "1114"
 phone: ""
 opening_hours: ""
 website: ""

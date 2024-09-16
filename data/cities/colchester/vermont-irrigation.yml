@@ -1,11 +1,11 @@
 id: 1128029418
-type: way
+type: node
 latitude: 44.59246
 longitude: -73.1787
 postcode: "05406"
 city: Colchester
-street: "Jasper Mine Road"
-housenumber: 151
-phone: "+1 802-893-3909"
+street: Jasper Mine Road
+housenumber: "151"
+phone: +1 802-893-3909
 opening_hours: ""
-website: "https://www.vermontirrigation.com/"
+website: https://www.vermontirrigation.com/

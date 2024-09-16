@@ -1,11 +1,11 @@
 id: 697888546
-type: way
+type: node
 latitude: 44.4168
 longitude: -73.21276
 postcode: "05482"
 city: Shelburne
-street: "Shelburne Road"
-housenumber: 2659
+street: Shelburne Road
+housenumber: "2659"
 phone: "+18029853246"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "http://www.rt7liquoranddeli.com/"
+opening_hours: Mo-Su 09:00-21:00
+website: http://www.rt7liquoranddeli.com/

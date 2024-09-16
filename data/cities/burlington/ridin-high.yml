@@ -1,11 +1,11 @@
 id: 201655804
-type: way
+type: node
 latitude: 44.48045
 longitude: -73.21884
 postcode: ""
 city: Burlington
-street: "Park Street"
-housenumber: 6
+street: Park Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

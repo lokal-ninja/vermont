@@ -1,11 +1,11 @@
 id: 772771527
-type: way
+type: node
 latitude: 43.64268
 longitude: -72.32635
 postcode: "05001"
 city: White River Junction
-street: "Key Auto Drive"
-housenumber: 32
+street: Key Auto Drive
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.whiteriverchevrolet.com/"
+website: https://www.whiteriverchevrolet.com/

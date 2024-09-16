@@ -1,11 +1,11 @@
 id: 201648748
-type: way
+type: node
 latitude: 44.48486
 longitude: -73.20606
 postcode: ""
 city: Burlington
-street: "North Willard Street"
-housenumber: 141
-phone: "+1-802-540-8330"
-opening_hours: "Su 08:00-22:00, Mo-Th 07:00-22:00, Fr 07:00-23:00, Sa 08:00-23:00"
-website: "https://www.momosmarketburlington.com/"
+street: North Willard Street
+housenumber: "141"
+phone: +1-802-540-8330
+opening_hours: Su 08:00-22:00, Mo-Th 07:00-22:00, Fr 07:00-23:00, Sa 08:00-23:00
+website: https://www.momosmarketburlington.com/

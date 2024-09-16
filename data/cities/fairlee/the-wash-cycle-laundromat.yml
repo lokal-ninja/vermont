@@ -1,11 +1,11 @@
 id: 934034537
-type: way
+type: node
 latitude: 43.90077
 longitude: -72.15708
 postcode: "05045"
 city: Fairlee
-street: "U.S. Route 5 South"
-housenumber: 432
+street: U.S. Route 5 South
+housenumber: "432"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 201648293
-type: way
+type: node
 latitude: 44.48472
 longitude: -73.21694
 postcode: ""
 city: Burlington
-street: "North Street"
-housenumber: 128
+street: North Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

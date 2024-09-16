@@ -1,11 +1,11 @@
 id: 608724256
-type: way
+type: node
 latitude: 44.13281
 longitude: -73.07862
 postcode: "05443"
 city: Bristol
-street: "South Street"
-housenumber: 4
+street: South Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

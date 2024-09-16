@@ -1,11 +1,11 @@
 id: 837171876
-type: way
+type: node
 latitude: 43.894
 longitude: -73.31128
 postcode: "05770"
 city: Shoreham
-street: "Main Street"
-housenumber: 115
+street: Main Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

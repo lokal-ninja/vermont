@@ -4,8 +4,8 @@ latitude: 43.17789
 longitude: -73.05561
 postcode: "05255"
 city: Manchester Center
-street: "Main Street"
-housenumber: 4963
-phone: "+1-802-362-3435"
-opening_hours: "Fr-Mo 11:00-16:00"
-website: "https://longagoandfaraway.com/"
+street: Main Street
+housenumber: "4963"
+phone: +1-802-362-3435
+opening_hours: Fr-Mo 11:00-16:00
+website: https://longagoandfaraway.com/

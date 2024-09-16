@@ -1,11 +1,11 @@
 id: 545464147
-type: way
+type: node
 latitude: 44.44372
 longitude: -73.11438
 postcode: "05452"
 city: Williston
-street: "Retail Way"
-housenumber: 244
-phone: "+1-802-316-3120"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/williston"
+street: Retail Way
+housenumber: "244"
+phone: +1-802-316-3120
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.rei.com/stores/williston

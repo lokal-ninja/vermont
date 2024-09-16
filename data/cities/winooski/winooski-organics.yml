@@ -1,11 +1,11 @@
 id: 297607958
-type: way
+type: node
 latitude: 44.49243
 longitude: -73.18016
 postcode: ""
 city: Winooski
-street: "East Allen Street"
-housenumber: 165
-phone: "+1 802-899-9333"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://winooskiorganics.com/"
+street: East Allen Street
+housenumber: "165"
+phone: +1 802-899-9333
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://winooskiorganics.com/

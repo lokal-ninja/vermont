@@ -1,11 +1,11 @@
 id: 1026187633
-type: way
+type: node
 latitude: 43.17754
 longitude: -73.05248
 postcode: "05255"
 city: Manchester Center
-street: "Park Place"
-housenumber: 18
-phone: "+1-802-236-2342"
+street: Park Place
+housenumber: "18"
+phone: +1-802-236-2342
 opening_hours: ""
-website: "https://www.missphyllis.net/"
+website: https://www.missphyllis.net/

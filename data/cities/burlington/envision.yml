@@ -1,11 +1,11 @@
 id: 201650239
-type: way
+type: node
 latitude: 44.46005
 longitude: -73.20771
 postcode: ""
 city: Burlington
-street: "Shelburne Road"
-housenumber: 188
+street: Shelburne Road
+housenumber: "188"
 phone: ""
 opening_hours: ""
-website: "http://envisionvt.com/"
+website: http://envisionvt.com/

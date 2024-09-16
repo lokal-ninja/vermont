@@ -1,11 +1,11 @@
 id: 979892781
-type: way
+type: node
 latitude: 42.8451
 longitude: -72.56291
 postcode: "05301"
 city: Brattleboro
-street: "Canal Street"
-housenumber: 250
+street: Canal Street
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

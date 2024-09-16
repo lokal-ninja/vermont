@@ -1,11 +1,11 @@
 id: 201646509
-type: way
+type: node
 latitude: 44.49255
 longitude: -73.2035
 postcode: "05401"
 city: Burlington
-street: "Intervale Road"
-housenumber: 128
-phone: "+1 802 660 3505"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.gardeners.com/"
+street: Intervale Road
+housenumber: "128"
+phone: +1 802 660 3505
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.gardeners.com/

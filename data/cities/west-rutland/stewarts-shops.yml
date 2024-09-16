@@ -1,11 +1,11 @@
 id: 500295899
-type: way
+type: node
 latitude: 43.59403
 longitude: -73.04291
 postcode: "05777"
 city: West Rutland
-street: "Main Street"
-housenumber: 116
+street: Main Street
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Fr 04:30 -24:00"
-website: "https://www.stewartsshops.com/"
+opening_hours: Mo-Fr 04:30 -24:00
+website: https://www.stewartsshops.com/

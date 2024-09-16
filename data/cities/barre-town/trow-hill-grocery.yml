@@ -1,11 +1,11 @@
 id: 1190915595
-type: way
+type: node
 latitude: 44.19162
 longitude: -72.48049
 postcode: "05641"
 city: Barre Town
-street: "Hill Street"
-housenumber: 275
+street: Hill Street
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

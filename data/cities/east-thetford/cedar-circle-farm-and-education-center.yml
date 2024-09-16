@@ -1,11 +1,11 @@
 id: 926039612
-type: way
+type: node
 latitude: 43.80585
 longitude: -72.1891
 postcode: "05043"
 city: East Thetford
-street: "Pavillion Road"
-housenumber: 225
-phone: "+1-802-785-4737"
-opening_hours: "May-Oct 09:00-17:00; Nov 02-Dec 19 Th-Su 10:00-17:00"
-website: "https://cedarcirclefarm.org/farmstand"
+street: Pavillion Road
+housenumber: "225"
+phone: +1-802-785-4737
+opening_hours: May-Oct 09:00-17:00; Nov 02-Dec 19 Th-Su 10:00-17:00
+website: https://cedarcirclefarm.org/farmstand

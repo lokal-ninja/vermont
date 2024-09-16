@@ -1,11 +1,11 @@
 id: 982361813
-type: way
+type: node
 latitude: 42.87834
 longitude: -73.1912
 postcode: "05201"
 city: Bennington
-street: "Main Street"
-housenumber: 636
+street: Main Street
+housenumber: "636"
 phone: ""
 opening_hours: ""
 website: ""

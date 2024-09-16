@@ -1,11 +1,11 @@
 id: 1131215088
-type: way
+type: node
 latitude: 44.50718
 longitude: -73.18175
 postcode: "05446"
 city: Colchester
-street: "Mountain View Drive"
-housenumber: 69
-phone: "+1 802-654-0772"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.cvs.com/store-locator/colchester-vt-pharmacies/69-mountain-view-dr-colchester-vt-05446/storeid=10216"
+street: Mountain View Drive
+housenumber: "69"
+phone: +1 802-654-0772
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.cvs.com/store-locator/colchester-vt-pharmacies/69-mountain-view-dr-colchester-vt-05446/storeid=10216

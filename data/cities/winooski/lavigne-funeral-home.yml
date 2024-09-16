@@ -1,11 +1,11 @@
 id: 117319766
-type: way
+type: node
 latitude: 44.49354
 longitude: -73.18695
 postcode: "05404"
 city: Winooski
-street: "Main Street"
-housenumber: 132
-phone: "+1 802-655-3480"
+street: Main Street
+housenumber: "132"
+phone: +1 802-655-3480
 opening_hours: ""
-website: "https://lavignefuneralhome.com/"
+website: https://lavignefuneralhome.com/

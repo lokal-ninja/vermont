@@ -1,11 +1,11 @@
 id: 484037839
-type: way
+type: node
 latitude: 44.41742
 longitude: -72.0144
 postcode: "05819"
 city: Saint Johnsbury
-street: "Bay Street"
-housenumber: 249
+street: Bay Street
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

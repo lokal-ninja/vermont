@@ -1,11 +1,11 @@
 id: 983094181
-type: way
+type: node
 latitude: 43.59933
 longitude: -72.97112
 postcode: "05701"
 city: Rutland City
-street: "Strongs Avenue"
-housenumber: 140
+street: Strongs Avenue
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

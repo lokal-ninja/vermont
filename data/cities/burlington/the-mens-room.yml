@@ -4,8 +4,8 @@ latitude: 44.47619
 longitude: -73.21512
 postcode: "05401"
 city: Burlington
-street: "Main Street"
-housenumber: 106
-phone: "+1-802-864-2088"
+street: Main Street
+housenumber: "106"
+phone: +1-802-864-2088
 opening_hours: ""
-website: "http://www.mensroomvt.com/"
+website: http://www.mensroomvt.com/

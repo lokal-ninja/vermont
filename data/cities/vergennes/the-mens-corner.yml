@@ -1,11 +1,11 @@
 id: 551051277
-type: way
+type: node
 latitude: 44.16774
 longitude: -73.25144
 postcode: ""
 city: Vergennes
-street: "Main Street"
-housenumber: 175
+street: Main Street
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

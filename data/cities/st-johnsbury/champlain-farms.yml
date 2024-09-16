@@ -1,11 +1,11 @@
 id: 828863144
-type: way
+type: node
 latitude: 44.41966
 longitude: -72.01518
 postcode: "05819"
 city: St. Johnsbury
-street: "Railroad Street"
-housenumber: 490
-phone: "+1-802-748-4000"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00"
-website: "https://www.champlainfarms.com/store/champlain-farms-shell-store-no-320-sj/"
+street: Railroad Street
+housenumber: "490"
+phone: +1-802-748-4000
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00
+website: https://www.champlainfarms.com/store/champlain-farms-shell-store-no-320-sj/

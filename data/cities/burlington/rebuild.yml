@@ -1,11 +1,11 @@
 id: 201652916
-type: way
+type: node
 latitude: 44.47005
 longitude: -73.21543
 postcode: ""
 city: Burlington
-street: "Pine Street"
-housenumber: 339
+street: Pine Street
+housenumber: "339"
 phone: ""
 opening_hours: ""
 website: ""

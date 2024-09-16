@@ -4,8 +4,8 @@ latitude: 43.64881
 longitude: -72.31952
 postcode: "05001"
 city: White River Junction
-street: "North Main Street"
-housenumber: 42
-phone: "+1-802-291-6120"
+street: North Main Street
+housenumber: "42"
+phone: +1-802-291-6120
 opening_hours: ""
-website: "http://nelsonskitchens.com/"
+website: http://nelsonskitchens.com/

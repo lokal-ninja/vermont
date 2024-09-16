@@ -1,11 +1,11 @@
 id: 503177766
-type: way
+type: node
 latitude: 43.17535
 longitude: -73.05688
 postcode: "05255"
 city: Manchester
-street: "Cone Road"
-housenumber: 9
-phone: "+1-802-362-5282"
+street: Cone Road
+housenumber: "9"
+phone: +1-802-362-5282
 opening_hours: ""
 website: ""

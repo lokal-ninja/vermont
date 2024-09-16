@@ -1,11 +1,11 @@
 id: 559842854
-type: way
+type: node
 latitude: 44.13925
 longitude: -72.8931
 postcode: "05674"
 city: Warren
-street: "Sugarbush Village Road"
-housenumber: 59
+street: Sugarbush Village Road
+housenumber: "59"
 phone: ""
-opening_hours: "Su,Th 11:00-20:00; Fr-Sa 11:00-24:00"
+opening_hours: Su,Th 11:00-20:00; Fr-Sa 11:00-24:00
 website: ""

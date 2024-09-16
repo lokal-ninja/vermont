@@ -1,11 +1,11 @@
 id: 987776602
-type: way
+type: node
 latitude: 43.17512
 longitude: -73.05299
 postcode: "05255"
 city: Manchester Center
-street: "Depot Street"
-housenumber: 241
-phone: "+1 802 362 4657"
-opening_hours: "Mo-Sa 10:30-16:00"
-website: "https://www.ninajewelry.com/"
+street: Depot Street
+housenumber: "241"
+phone: +1 802 362 4657
+opening_hours: Mo-Sa 10:30-16:00
+website: https://www.ninajewelry.com/

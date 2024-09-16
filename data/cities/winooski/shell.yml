@@ -1,11 +1,11 @@
 id: 984976924
-type: way
+type: node
 latitude: 44.49279
 longitude: -73.17564
 postcode: "05404"
 city: Winooski
-street: "East Allen Street"
-housenumber: 280
+street: East Allen Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

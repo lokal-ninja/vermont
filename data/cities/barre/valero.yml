@@ -1,11 +1,11 @@
 id: 984782845
-type: way
+type: node
 latitude: 44.22394
 longitude: -72.5512
 postcode: "05641"
 city: Barre
-street: "US Route 302"
-housenumber: 1097
+street: US Route 302
+housenumber: "1097"
 phone: ""
 opening_hours: ""
 website: ""

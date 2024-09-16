@@ -1,11 +1,11 @@
 id: 801491680
-type: way
+type: node
 latitude: 43.30201
 longitude: -72.49106
 postcode: "05156"
 city: Springfield
-street: "Springfield Plaza"
-housenumber: 172
+street: Springfield Plaza
+housenumber: "172"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 980395022
-type: way
+type: node
 latitude: 43.92741
 longitude: -72.66534
 postcode: "05060"
 city: Randolph
-street: "Central Street"
-housenumber: 7
+street: Central Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

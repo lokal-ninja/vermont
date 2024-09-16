@@ -4,8 +4,8 @@ latitude: 42.84783
 longitude: -72.562
 postcode: "05301"
 city: Brattleboro
-street: "Canal Street"
-housenumber: 141
-phone: "+1 802-490-2412"
-opening_hours: "Fr 12:00-16:00; Sa,Su,Tu,Th closed; Mo 11:00-16:00; We 13:00-18:00"
+street: Canal Street
+housenumber: "141"
+phone: +1 802-490-2412
+opening_hours: Fr 12:00-16:00; Sa,Su,Tu,Th closed; Mo 11:00-16:00; We 13:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1300405930
-type: way
+type: node
 latitude: 44.64577
 longitude: -73.3085
 postcode: "05486"
 city: South Hero
-street: "U.S. Route 2"
-housenumber: 348
+street: U.S. Route 2
+housenumber: "348"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
 website: ""

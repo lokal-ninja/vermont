@@ -1,11 +1,11 @@
 id: 914256711
-type: way
+type: node
 latitude: 44.90874
 longitude: -72.80406
 postcode: "05450"
 city: Enosburgh
-street: "Main Street"
-housenumber: 424
+street: Main Street
+housenumber: "424"
 phone: ""
 opening_hours: ""
 website: ""

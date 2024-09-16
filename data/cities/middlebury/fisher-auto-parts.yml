@@ -1,11 +1,11 @@
 id: 378154714
-type: way
+type: node
 latitude: 44.0349
 longitude: -73.16799
 postcode: "05753"
 city: Middlebury
-street: "Exchange Street"
-housenumber: 1130
+street: Exchange Street
+housenumber: "1130"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-17:00, Sa 08:00-12:00
 website: ""

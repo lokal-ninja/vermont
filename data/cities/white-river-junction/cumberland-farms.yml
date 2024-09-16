@@ -1,11 +1,11 @@
 id: 307249348
-type: way
+type: node
 latitude: 43.66479
 longitude: -72.31228
 postcode: "05001"
 city: White River Junction
-street: "Hartford Avenue"
-housenumber: 1167
-phone: "+1-802-281-7001"
+street: Hartford Avenue
+housenumber: "1167"
+phone: +1-802-281-7001
 opening_hours: ""
-website: "https://www.cumberlandfarms.com/stores/vt/white-river-junction-8007"
+website: https://www.cumberlandfarms.com/stores/vt/white-river-junction-8007
