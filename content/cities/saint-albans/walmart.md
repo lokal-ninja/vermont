@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /saint-albans/walmart/
-shop: supermarket
+shop: department store
 ---

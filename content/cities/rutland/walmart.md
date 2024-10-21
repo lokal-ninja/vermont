@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rutland/walmart/
-shop: supermarket
+shop: department store
 ---
