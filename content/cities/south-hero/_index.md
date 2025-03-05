@@ -1,6 +1,6 @@
 ---
 title: South Hero
 url: /south-hero/
-latitude: 44.668
-longitude: -73.332
+latitude: 44.664
+longitude: -73.323
 ---
