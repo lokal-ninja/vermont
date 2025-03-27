@@ -1,6 +1,6 @@
 ---
 title: Essex Town
 url: /essex-town/
-latitude: 44.508
-longitude: -73.054
+latitude: 44.505
+longitude: -73.137
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Champlain Farms"
-url: /essex-town/champlain-farms/
+url: /essex/champlain-farms/
 shop: convenience
 ---
