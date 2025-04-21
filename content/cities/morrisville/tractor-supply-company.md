@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
-url: /morristown/tractor-supply-company/
+url: /morrisville/tractor-supply-company/
 shop: general
 ---

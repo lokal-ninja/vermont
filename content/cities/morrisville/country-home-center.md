@@ -1,5 +1,5 @@
 ---
 title: "Country Home Center"
-url: /morristown/country-home-center/
+url: /morrisville/country-home-center/
 shop: doityourself
 ---
