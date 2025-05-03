@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
-url: /newport-city/cumberland-farms/
+url: /newport/cumberland-farms/
 shop: convenience
 ---
