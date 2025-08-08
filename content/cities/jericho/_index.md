@@ -1,6 +1,6 @@
 ---
 title: Jericho
 url: /jericho/
-latitude: 44.505
-longitude: -73
+latitude: 44.47
+longitude: -72.973
 ---
