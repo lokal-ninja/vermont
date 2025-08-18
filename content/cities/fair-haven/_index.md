@@ -1,6 +1,6 @@
 ---
 title: Fair Haven
 url: /fair-haven/
-latitude: 43.603
-longitude: -73.275
+latitude: 43.593
+longitude: -73.264
 ---
