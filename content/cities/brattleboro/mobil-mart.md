@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /brattlrboro/mobil-mart/
+url: /brattleboro/mobil-mart/
 shop: convenience
 ---
