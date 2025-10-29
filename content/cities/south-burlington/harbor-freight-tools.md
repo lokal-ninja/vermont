@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
-url: /burlington/harbor-freight-tools/
+url: /south-burlington/harbor-freight-tools/
 shop: hardware
 ---
