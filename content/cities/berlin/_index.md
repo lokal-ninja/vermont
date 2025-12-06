@@ -1,6 +1,6 @@
 ---
 title: Berlin
 url: /berlin/
-latitude: 44.245
-longitude: -72.593
+latitude: 44.224
+longitude: -72.547
 ---
