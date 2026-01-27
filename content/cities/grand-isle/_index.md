@@ -1,6 +1,6 @@
 ---
 title: Grand Isle
 url: /grand-isle/
-latitude: 44.727
-longitude: -73.308
+latitude: 44.704
+longitude: -73.302
 ---
