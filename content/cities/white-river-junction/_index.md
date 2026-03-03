@@ -1,6 +1,6 @@
 ---
 title: White River Junction
 url: /white-river-junction/
-latitude: 43.649
-longitude: -72.319
+latitude: 43.648
+longitude: -72.318
 ---
