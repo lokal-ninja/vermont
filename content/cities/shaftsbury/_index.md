@@ -1,6 +1,6 @@
 ---
 title: Shaftsbury
 url: /shaftsbury/
-latitude: 42.951
-longitude: -73.211
+latitude: 42.978
+longitude: -73.176
 ---
