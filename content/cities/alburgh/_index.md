@@ -1,6 +1,6 @@
 ---
 title: Alburgh
 url: /alburgh/
-latitude: 44.982
-longitude: -73.297
+latitude: 44.959
+longitude: -73.277
 ---
