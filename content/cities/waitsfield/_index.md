@@ -1,6 +1,6 @@
 ---
 title: Waitsfield
 url: /waitsfield/
-latitude: 44.191
-longitude: -72.824
+latitude: 44.181
+longitude: -72.84
 ---
