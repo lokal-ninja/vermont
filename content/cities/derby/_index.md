@@ -1,6 +1,6 @@
 ---
 title: Derby
 url: /derby/
-latitude: 44.952
-longitude: -72.157
+latitude: 45.005
+longitude: -72.085
 ---

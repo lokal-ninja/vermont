@@ -1,6 +1,6 @@
 ---
 title: Dorset
 url: /dorset/
-latitude: 43.24
-longitude: -73.011
+latitude: 43.254
+longitude: -73.098
 ---

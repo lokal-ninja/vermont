@@ -1,6 +1,6 @@
 ---
 title: Swanton
 url: /swanton/
-latitude: 44.923
-longitude: -73.111
+latitude: 44.919
+longitude: -73.125
 ---

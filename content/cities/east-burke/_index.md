@@ -1,6 +1,6 @@
 ---
 title: East Burke
 url: /east-burke/
-latitude: 44.589
-longitude: -71.945
+latitude: 44.61
+longitude: -71.913
 ---
