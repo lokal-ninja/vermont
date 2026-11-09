@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
-url: /lyndon/cumberland-farms/
+url: /lyndonville/cumberland-farms/
 shop: convenience
 ---

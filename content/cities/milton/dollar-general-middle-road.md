@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /milton/dollar-general-ethan-allen-highway/
+url: /milton/dollar-general-middle-road/
 shop: variety store
 ---
