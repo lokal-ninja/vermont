@@ -1,5 +1,5 @@
 ---
 title: "Village Washtub"
-url: /st-johnsbury/village-washtub/
+url: /saint-johnsbury/village-washtub/
 shop: laundry
 ---
